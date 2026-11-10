@@ -1,0 +1,73 @@
+.fa-page { background: linear-gradient(180deg, var(--c-warm-tint) 0%, #fff 60%); padding: 48px var(--gutter) 112px; }
+.fa-grid {
+  max-width: var(--w-container); margin: 0 auto;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 480px), 1fr)); gap: 64px; align-items: start;
+}
+
+.fa-intro { display: flex; flex-direction: column; gap: 24px; min-width: 0; }
+.fa-title { font-family: var(--f-head); font-weight: 800; font-size: clamp(36px, 4.4vw, 56px); line-height: 1.06; letter-spacing: -.03em; color: var(--c-navy); }
+.fa-lead { font-size: 19px; line-height: 30px; }
+
+.fa-includes { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; }
+.fa-include { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 14px; align-items: start; border-radius: 10px; transition: background-color .2s ease; }
+.fa-include.is-focus { background: #fff; box-shadow: 0 0 0 2px var(--c-peach-soft), 0 10px 24px rgba(11, 31, 58, .06); padding: 10px; margin: -10px; }
+.fa-include__icon {
+  width: 44px; height: 44px; border-radius: 8px; background: #fff; border: 1px solid var(--c-peach-soft);
+  display: flex; align-items: center; justify-content: center;
+}
+.fa-include__t { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-family: var(--f-head); font-size: 17px; line-height: 24px; color: var(--c-navy); }
+.fa-include__b { display: block; font-size: 15px; line-height: 24px; }
+.fa-include__badge {
+  font-family: var(--f-body); font-size: 11px; line-height: 16px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  background: var(--c-cta); color: #fff; padding: 2px 8px; border-radius: var(--r-tag);
+}
+.fa-preview { border-radius: var(--r-card); }
+
+.fa-card {
+  background: #fff; border: 1px solid var(--c-border); border-radius: var(--r-panel);
+  box-shadow: 0 30px 70px rgba(11, 31, 58, .12);
+  padding: clamp(24px, 4vw, 44px);
+  position: sticky; top: calc(var(--header-h) + 24px);
+  min-width: 0;
+}
+.fa-form { display: flex; flex-direction: column; gap: 22px; }
+
+.fa-progress { display: flex; flex-direction: column; gap: 10px; }
+.fa-progress__labels { display: flex; justify-content: space-between; gap: 12px; font-size: 13px; line-height: 18px; font-weight: 700; letter-spacing: .06em; }
+.fa-progress__step { color: var(--c-cta); }
+.fa-progress__name { color: var(--c-muted); }
+.fa-progress__track { height: 6px; background: var(--c-border); border-radius: 3px; overflow: hidden; }
+.fa-progress__bar { height: 100%; background: var(--c-cta); transition: width .3s ease; }
+
+.fa-step-title { font-family: var(--f-head); font-weight: 800; font-size: 24px; line-height: 32px; color: var(--c-navy); }
+.fa-step-title:focus { outline: none; }
+.fa-step-title:focus-visible { outline: var(--focus); outline-offset: 4px; }
+
+.fa-goals { border: 0; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.fa-goals legend { font-size: 14px; font-weight: 600; color: var(--c-navy); margin-bottom: 10px; padding: 0; }
+.fa-goals__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+.fa-goal {
+  min-height: 48px; padding: 12px; border-radius: var(--r-btn); cursor: pointer; text-align: left;
+  font-family: var(--f-body); font-weight: 600; font-size: 15px; line-height: 22px;
+  border: 1px solid var(--c-input); background: #fff; color: var(--c-navy);
+  transition: border-color .15s ease, background-color .15s ease, color .15s ease;
+}
+.fa-goal:hover { border-color: var(--c-cta); }
+.fa-goal.is-on { border-color: var(--c-cta); background: var(--c-warm-tint); color: var(--c-cta-hover); }
+
+.fa-actions { display: flex; gap: 10px; }
+.fa-back {
+  border: 1px solid var(--c-input); background: #fff; color: var(--c-navy);
+  font-family: var(--f-body); font-weight: 700; font-size: 16px; padding: 16px 20px; border-radius: var(--r-btn); cursor: pointer; min-height: 52px;
+}
+.fa-back:hover { border-color: var(--c-navy); }
+.fa-submit { flex: 1; font-size: 17px; }
+
+@media (max-width: 1080px) {
+  .fa-card { position: static; }
+}
+@media (max-width: 640px) {
+  .fa-page { padding: 32px var(--gutter) 72px; }
+  .fa-grid { gap: 40px; }
+  .fa-goals__grid { grid-template-columns: 1fr; }
+}

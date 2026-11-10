@@ -1,0 +1,60 @@
+/* Services + Specialties hubs (prefix hub-) — built from the service page's hero and card styles */
+.hub-maxw { max-width: 760px; }
+.hub-h2 { font-size: clamp(30px, 3.2vw, 42px); line-height: 1.2; }
+.hub-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+.hub-anchor { scroll-margin-top: calc(var(--header-h) + 16px); }
+.hub-intro { font-size: 18px; line-height: 30px; }
+
+/* ---------- Hero ---------- */
+.hub-hero { background: var(--c-navy); color: var(--c-on-dark); padding: 32px var(--gutter) 96px; }
+.hub-hero__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 480px), 1fr)); gap: 64px; align-items: center; }
+.hub-hero__copy { gap: 22px; }
+.hub-hero__title {
+  font-family: var(--f-head); font-weight: 800; color: #fff;
+  font-size: clamp(38px, 4.4vw, 58px); line-height: 1.08; letter-spacing: -.03em;
+}
+
+.hub-groups-nav { display: flex; flex-direction: column; gap: 12px; }
+.hub-groups-nav__item {
+  display: grid; grid-template-columns: 48px minmax(0, 1fr); gap: 16px; align-items: center;
+  background: var(--c-navy-raised); border: 1px solid var(--c-dark-border); border-radius: var(--r-card);
+  padding: 20px 22px; text-decoration: none; color: var(--c-on-dark);
+  transition: border-color .2s var(--ease), transform .2s var(--ease);
+}
+.hub-groups-nav__item:hover { color: var(--c-on-dark); border-color: var(--c-peach); transform: translateY(-2px); }
+.hub-groups-nav__n {
+  width: 48px; height: 48px; border-radius: 8px; background: var(--c-cta); color: #fff;
+  font-family: var(--f-head); font-weight: 800; display: flex; align-items: center; justify-content: center;
+}
+.hub-groups-nav__t { font-family: var(--f-head); font-weight: 700; font-size: 19px; line-height: 26px; color: #fff; }
+.hub-groups-nav__d { font-size: 14px; line-height: 22px; }
+
+/* ---------- Cards ---------- */
+.hub-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 20px; }
+.hub-card {
+  background: #fff; border: 1px solid var(--c-border); border-radius: var(--r-card); padding: 28px;
+  display: flex; flex-direction: column; gap: 10px; scroll-margin-top: calc(var(--header-h) + 24px);
+}
+.hub-card:target { border-color: var(--c-cta); box-shadow: 0 0 0 3px rgba(245, 158, 107, .45); }
+.hub-card--page { border-color: var(--c-peach-soft); background: var(--c-warm-tint); }
+.hub-card__t { font-family: var(--f-head); font-weight: 700; font-size: 19px; line-height: 26px; color: var(--c-navy); }
+.hub-card__cta { margin-top: auto; padding-top: 6px; font-weight: 700; color: var(--c-cta); text-decoration: none; }
+.hub-card__cta:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+.hub-mono {
+  width: 48px; height: 48px; border-radius: 8px; background: var(--c-warm-tint); color: var(--c-cta);
+  display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 15px; font-family: var(--f-head);
+}
+.hub-card--page .hub-mono { background: var(--c-navy); color: var(--c-peach); }
+
+/* ---------- Closing CTA ---------- */
+.hub-cta { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: 32px; align-items: center; }
+
+@media (max-width: 768px) {
+  .hub-hero { padding-bottom: 64px; }
+  .hub-hero__grid { gap: 40px; }
+}
+@media (max-width: 480px) {
+  .hub-actions .btn { flex: 1 1 100%; }
+  .hub-card { padding: 22px; }
+}

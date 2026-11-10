@@ -1,0 +1,3 @@
+.route-error { padding: 112px var(--gutter); }
+.route-error__inner { max-width: 720px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+.route-error__actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 8px; }

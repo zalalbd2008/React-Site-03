@@ -1,0 +1,11 @@
+{
+  "name": "Alpha Dental Media",
+  "short_name": "Alpha Dental",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ],
+  "theme_color": "#0B1F3A",
+  "background_color": "#FFFFFF",
+  "display": "browser"
+}

@@ -1,0 +1,91 @@
+.cs-hero { background: var(--c-navy); color: var(--c-on-dark); padding: 32px var(--gutter) 0; }
+.cs-banner {
+  background: var(--c-navy-line); border: 1px dashed var(--c-dark-border-2); border-radius: 8px;
+  padding: 12px 16px; font-size: 14px; line-height: 20px; color: var(--c-peach);
+}
+.cs-hero__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 520px), 1fr)); gap: 48px; align-items: end; }
+.cs-hero__title {
+  font-family: var(--f-head); font-weight: 800; color: #fff;
+  font-size: clamp(36px, 4.4vw, 56px); line-height: 1.08; letter-spacing: -.03em;
+}
+.cs-facts { margin: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px 24px; font-size: 15px; }
+.cs-facts dt { font-size: 12px; font-weight: 700; letter-spacing: .1em; color: var(--c-on-dark-muted); }
+.cs-facts dd { margin: 4px 0 0; color: #fff; font-weight: 600; }
+.cs-hero__img { border-radius: var(--r-media) var(--r-media) 0 0; }
+
+.cs-metrics-wrap { padding: 0 var(--gutter); }
+.cs-metrics {
+  max-width: var(--w-container); margin: -1px auto 0; background: #fff;
+  border: 1px solid var(--c-border); border-top: 0; border-radius: 0 0 var(--r-media) var(--r-media);
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); overflow: hidden;
+}
+.cs-metric { padding: 32px; border-right: 1px solid var(--c-border); display: flex; flex-direction: column; gap: 6px; }
+.cs-metric:last-child { border-right: 0; }
+.cs-metric__v { font-family: var(--f-head); font-weight: 800; font-size: 44px; line-height: 50px; color: var(--c-cta); }
+.cs-metric__l { font-size: 15px; line-height: 22px; }
+.cs-metric__p { font-size: 12px; line-height: 16px; color: var(--c-muted); }
+
+.cs-body { padding: 96px var(--gutter); }
+.cs-body__layout { display: flex; flex-wrap: wrap; gap: 64px; align-items: flex-start; }
+.cs-side { flex: 1 1 260px; min-width: 0; position: sticky; top: calc(var(--header-h) + 16px); display: flex; flex-direction: column; gap: 16px; }
+.cs-side__box { border: 1px solid var(--c-border); border-radius: var(--r-card); padding: 24px; display: flex; flex-direction: column; gap: 12px; }
+.cs-side__h { font-size: 12px; font-weight: 700; letter-spacing: .1em; color: var(--c-muted); }
+.cs-side__link { font-weight: 600; font-size: 15px; text-decoration: none; display: flex; justify-content: space-between; gap: 12px; }
+.cs-side__link:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+.cs-story { flex: 999 1 640px; min-width: 0; max-width: 760px; display: flex; flex-direction: column; gap: 56px; }
+.cs-chapter { display: grid; grid-template-columns: 56px minmax(0, 1fr); gap: 20px; }
+.cs-chapter__n {
+  width: 56px; height: 56px; border-radius: 50%; background: var(--c-warm-tint); color: var(--c-cta);
+  font-family: var(--f-head); font-weight: 800; display: flex; align-items: center; justify-content: center;
+}
+.cs-chapter__body { display: flex; flex-direction: column; gap: 14px; }
+.cs-chapter__t { font-family: var(--f-head); font-weight: 800; font-size: 30px; line-height: 38px; color: var(--c-navy); }
+.cs-chapter__body p { font-size: 18px; line-height: 31px; }
+.cs-chapter__body ul { margin: 0; padding-left: 22px; font-size: 17px; line-height: 28px; }
+.cs-chapter__body li { margin-bottom: 6px; }
+
+.cs-chart { margin: 0; display: flex; flex-direction: column; gap: 10px; }
+.cs-chart__box { border: 1px solid var(--c-border); border-radius: 14px; padding: 28px; display: flex; flex-direction: column; gap: 16px; }
+.cs-chart__title { font-size: 13px; font-weight: 700; color: var(--c-navy); }
+.cs-chart__bars { display: flex; align-items: flex-end; gap: 10px; height: 200px; border-bottom: 1px solid var(--c-input); }
+.cs-chart__bars span { flex: 1; border-radius: 4px 4px 0 0; background: var(--c-border); }
+.cs-chart__axis { display: flex; justify-content: space-between; font-size: 12px; color: var(--c-muted); }
+.cs-chart figcaption { font-size: 13px; line-height: 18px; color: var(--c-muted); }
+
+.cs-quote { margin: 0; background: var(--c-navy); border-radius: var(--r-media); padding: 40px; color: #fff; display: flex; flex-direction: column; gap: 16px; }
+.cs-quote__text { font-family: var(--f-head); font-weight: 600; font-size: 24px; line-height: 36px; }
+.cs-quote__by { font-size: 15px; color: var(--c-peach); }
+
+.cs-takeaways { background: var(--c-teal-tint); border-radius: 14px; padding: 28px; display: flex; flex-direction: column; gap: 12px; }
+.cs-takeaways__h { font-family: var(--f-head); font-weight: 800; font-size: 24px; line-height: 32px; color: var(--c-navy); }
+.cs-takeaways ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+.cs-takeaways li { display: flex; gap: 10px; font-size: 16px; line-height: 25px; color: var(--c-navy); }
+.cs-takeaways svg { flex: 0 0 auto; margin-top: 2px; }
+
+.cs-more { background: var(--c-alt); padding: 96px var(--gutter); }
+.cs-more__h { font-family: var(--f-head); font-weight: 800; font-size: 30px; line-height: 38px; color: var(--c-navy); }
+.cs-more__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 24px; }
+.cs-story-card { background: #fff; border-radius: var(--r-card); overflow: hidden; display: flex; flex-direction: column; }
+.cs-story-card__body { padding: 22px; display: flex; flex-direction: column; gap: 8px; }
+.cs-story-card__body h3 { font-family: var(--f-head); font-weight: 700; font-size: 19px; line-height: 26px; color: var(--c-navy); }
+.cs-story-card__soon { font-weight: 700; color: var(--c-muted); font-size: 15px; }
+
+@media (max-width: 960px) {
+  .cs-side { position: static; }
+  .cs-metric { border-bottom: 1px solid var(--c-border); }
+}
+@media (max-width: 640px) {
+  .cs-hero__grid { gap: 32px; }
+  .cs-body { padding: 64px var(--gutter); }
+  .cs-body__layout { gap: 40px; }
+  .cs-story { gap: 44px; }
+  .cs-chapter { grid-template-columns: 1fr; gap: 12px; }
+  .cs-chapter__t { font-size: 26px; line-height: 34px; }
+  .cs-metric { padding: 24px; border-right: 0; }
+  .cs-metric__v { font-size: 38px; line-height: 44px; }
+  .cs-quote { padding: 28px; }
+  .cs-quote__text { font-size: 20px; line-height: 30px; }
+  .cs-chart__bars { gap: 6px; height: 160px; }
+  .cs-more { padding: 64px var(--gutter); }
+}

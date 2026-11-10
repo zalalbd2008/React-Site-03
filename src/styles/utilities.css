@@ -1,0 +1,73 @@
+/* Shared layout + typography primitives used across every page.
+   Page-specific styles live next to each page (pages/*.css). */
+
+.container { width: 100%; max-width: var(--w-container); margin: 0 auto; }
+.container--wide { max-width: var(--w-wide); }
+.container--read { max-width: var(--w-read); }
+
+.section { padding: var(--section-y) var(--gutter); }
+.section--alt { background: var(--c-alt); }
+.section--warm { background: var(--c-warm-tint); }
+.section--navy { background: var(--c-navy); color: var(--c-on-dark); }
+.section--navy :is(h1, h2, h3, h4) { color: #fff; }
+
+.stack { display: flex; flex-direction: column; }
+.gap-8 { gap: 8px; } .gap-12 { gap: 12px; } .gap-16 { gap: 16px; } .gap-20 { gap: 20px; }
+.gap-24 { gap: 24px; } .gap-28 { gap: 28px; } .gap-32 { gap: 32px; } .gap-40 { gap: 40px; }
+.gap-48 { gap: 48px; } .gap-56 { gap: 56px; } .gap-64 { gap: 64px; }
+
+/* auto-fit grids from the design system */
+.grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: 64px; }
+.grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 24px; }
+.grid-4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 20px; }
+
+/* Eyebrow: 13px Inter 700, +0.12em, uppercase */
+.eyebrow {
+  font-size: 13px; line-height: 18px; font-weight: 700; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--c-cta);
+}
+.eyebrow--teal { color: var(--c-teal); }
+.eyebrow--peach { color: var(--c-peach); }
+.eyebrow--muted { color: var(--c-muted); }
+
+/* Headings */
+.h1 {
+  font-family: var(--f-head); font-weight: 800; color: var(--c-navy);
+  font-size: clamp(40px, 5vw, 64px); line-height: 1.06; letter-spacing: -.035em;
+}
+.h2 {
+  font-family: var(--f-head); font-weight: 800; color: var(--c-navy);
+  font-size: clamp(30px, 3.2vw, 44px); line-height: 1.18; letter-spacing: -.025em;
+}
+.h3 { font-family: var(--f-head); font-weight: 700; color: var(--c-navy); font-size: 22px; line-height: 30px; }
+.on-dark { color: #fff; }
+
+.lead { font-size: 20px; line-height: 32px; }
+.small { font-size: 15px; line-height: 24px; }
+.caption { font-size: 13px; line-height: 18px; font-weight: 500; color: var(--c-muted); }
+.muted { color: var(--c-muted); }
+.accent { color: var(--c-cta); }
+
+/* Hover lift for cards */
+.lift { transition: transform .2s var(--ease), box-shadow .2s var(--ease), border-color .2s var(--ease); }
+.lift:hover { transform: translateY(-4px); box-shadow: var(--shadow-lift); border-color: var(--c-peach-soft); }
+
+.card {
+  background: #fff; border: 1px solid var(--c-border); border-radius: var(--r-card);
+  padding: 28px; display: flex; flex-direction: column; gap: 12px;
+}
+
+.link-arrow { font-weight: 700; text-decoration: none; }
+.link-arrow:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* Check list */
+.checklist { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 12px; }
+.checklist li { display: flex; gap: 10px; align-items: flex-start; }
+.checklist svg { flex: 0 0 auto; margin-top: 3px; }
+
+.table-scroll { overflow-x: auto; border: 1px solid var(--c-border); border-radius: 10px; }
+
+@media (max-width: 640px) {
+  .grid-2 { gap: 40px; }
+  .lead { font-size: 18px; line-height: 29px; }
+}

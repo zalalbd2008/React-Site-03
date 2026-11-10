@@ -1,0 +1,68 @@
+/* Alpha Dental Media design tokens — taken from the "02 · Design System" artboard. */
+:root {
+  /* Brand */
+  --c-cta: #C2410C;            /* Alpha Orange · buttons, links, eyebrows (white 5.2:1) */
+  --c-cta-hover: #9A3412;
+  --c-ember: #E4570F;          /* decorative accent: logo bar, rules, icons */
+  --c-peach: #FDBA8C;          /* accents on navy */
+  --c-coral: #F59E6B;          /* focus ring, charts */
+  --c-peach-soft: #F3C3A6;
+  --c-warm-tint: #FFF5EE;
+
+  --c-navy: #0B1F3A;           /* headings, dark sections */
+  --c-navy-raised: #0F2647;
+  --c-navy-line: #12294D;
+  --c-midnight: #071528;       /* footer */
+  --c-teal: #0E7C7B;
+  --c-teal-tint: #E6F4F3;
+  --c-red: #B42318;
+  --c-red-tint: #FEF3F2;
+
+  /* Text */
+  --c-body: #3B4757;
+  --c-muted: #5E6B7B;
+  --c-on-dark: #C9D3E0;
+  --c-on-dark-muted: #9FB0C6;
+
+  /* Surfaces & lines */
+  --c-white: #FFFFFF;
+  --c-alt: #F6F8FB;
+  --c-border: #E2E7EE;
+  --c-input: #C5CED9;
+  --c-dark-border: #1B2D47;
+  --c-dark-border-2: #3A4E6B;
+  --c-ph: #E9EEF4;
+
+  /* Type */
+  --f-head: 'Manrope Variable', Manrope, system-ui, sans-serif;
+  --f-body: 'Inter Variable', Inter, system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  /* Layout */
+  --w-wide: 1320px;
+  --w-container: 1200px;
+  --w-read: 760px;
+  --gutter: 24px;
+  --section-y: 112px;
+
+  /* Radius */
+  --r-tag: 4px;
+  --r-btn: 6px;
+  --r-card: 12px;
+  --r-media: 16px;
+  --r-panel: 20px;
+
+  /* Effects */
+  --shadow-lift: 0 18px 40px rgba(11, 31, 58, .10);
+  --shadow-menu: 0 24px 48px rgba(11, 31, 58, .12);
+  --focus: 3px solid var(--c-coral);
+  --ease: cubic-bezier(.2, .7, .2, 1);
+
+  --header-h: 80px;
+}
+
+@media (max-width: 1024px) {
+  :root { --section-y: 96px; }
+}
+@media (max-width: 640px) {
+  :root { --section-y: 64px; --gutter: 16px; }
+}

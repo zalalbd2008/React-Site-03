@@ -1,0 +1,9 @@
+.crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; font-size: 14px; line-height: 20px; }
+.crumbs li + li::before { content: '/'; margin: 0 6px; color: var(--c-muted); }
+.crumbs a { color: var(--c-cta); }
+.crumbs [aria-current='page'] { color: var(--c-navy); font-weight: 600; }
+
+.crumbs--dark a { color: var(--c-on-dark); }
+.crumbs--dark a:hover { color: #fff; }
+.crumbs--dark li + li::before { color: var(--c-on-dark-muted); }
+.crumbs--dark [aria-current='page'] { color: #fff; }
