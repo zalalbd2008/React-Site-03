@@ -1,0 +1,616 @@
+{
+  "slug": "ai-overviews-dental-visibility",
+  "category": "AI Search",
+  "title": "What Google AI Overviews and AI Mode Mean for Dental Practice Visibility",
+  "metaTitle": "AI Overviews & AI Mode for Dentists: How to Stay Visible",
+  "metaDescription": "How Google AI Overviews, AI Mode and ChatGPT choose which dental practices to mention, and how dentists in Texas, Florida and California can be cited.",
+  "author": "[Author name], [Title], Alpha Dental Media",
+  "reviewer": "[Reviewer name], [credentials]",
+  "updated": "2026-11-10",
+  "time": "10 min",
+  "takeaways": [
+    "Google says there are **no special optimizations** required for AI Overviews or AI Mode — standard SEO fundamentals apply.",
+    "To be a supporting link, a page must be **indexed and eligible to show with a snippet**.",
+    "AI answers reward **clear, specific, consistent information** about your practice, providers and treatments.",
+    "AI traffic from Google is counted in **Search Console’s Web search type**, so measure leads, not just visits."
+  ],
+  "content": [
+    {
+      "type": "p",
+      "text": "A patient used to type “dental implants cost” and scan ten blue links. Now Google often answers first with an AI Overview, and many patients ask ChatGPT, Gemini or Perplexity directly. For dental practices, the question has shifted from “Do we rank?” to “Are we the practice the answer mentions?”"
+    },
+    {
+      "type": "p",
+      "text": "This guide explains what Google has actually said about AI features, what that means for dental websites, and practical steps for practices in Texas, Florida and California."
+    },
+    {
+      "type": "h2",
+      "id": "how-ai-search-works-for-dental-queries",
+      "text": "How AI Search Works for Dental Queries"
+    },
+    {
+      "type": "h3",
+      "id": "what-are-google-ai-overviews-and-ai-mode",
+      "text": "What are Google AI Overviews and AI Mode?"
+    },
+    {
+      "type": "answer",
+      "text": "AI Overviews are AI-generated summaries that appear at the top of some Google results, with links to supporting pages. AI Mode is a more conversational search experience for follow-up questions. Both draw on Google’s search index, so pages that rank and are trusted are the ones eligible to be cited."
+    },
+    {
+      "type": "p",
+      "text": "For dental searches, AI features commonly appear for informational questions — costs, procedures, recovery, comparisons — while “near me” searches still lean heavily on the local map pack."
+    },
+    {
+      "type": "h3",
+      "id": "do-dentists-need-special-optimization-for-ai-overviews",
+      "text": "Do dentists need special optimization for AI Overviews?"
+    },
+    {
+      "type": "answer",
+      "text": "No. Google states there are no additional requirements or special optimizations needed to appear in AI Overviews or AI Mode. It recommends continuing SEO fundamentals: allowing crawling, linking internally, keeping important content in text, and making structured data match visible content."
+    },
+    {
+      "type": "p",
+      "text": "That means no special “AI files,” no secret markup and no shortcuts. It also means weak fundamentals now cost twice: in rankings and in AI citations."
+    },
+    {
+      "type": "h3",
+      "id": "how-do-chatgpt-and-other-ai-assistants-decide-which-dentists-to-mentio",
+      "text": "How do ChatGPT and other AI assistants decide which dentists to mention?"
+    },
+    {
+      "type": "answer",
+      "text": "AI assistants generate answers from information they can find and trust, which can include websites, business listings, reviews and directories. Practices with consistent, detailed and accurate information across those sources are easier to describe correctly. No one can guarantee placement in an AI answer."
+    },
+    {
+      "type": "h2",
+      "id": "what-gets-a-dental-practice-cited",
+      "text": "What Gets a Dental Practice Cited"
+    },
+    {
+      "type": "h3",
+      "id": "what-content-is-most-likely-to-be-cited-in-ai-answers-about-dental-car",
+      "text": "What content is most likely to be cited in AI answers about dental care?"
+    },
+    {
+      "type": "answer",
+      "text": "Clear answers to specific patient questions: what a procedure involves, typical cost ranges, candidacy, recovery and how to choose a provider. Pages that answer directly near the top, then explain in depth, are easier for both people and AI systems to use."
+    },
+    {
+      "type": "p",
+      "text": "The structure that works:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**A question as a heading**, phrased the way patients ask it",
+        "**A direct two-to-three-sentence answer** immediately below",
+        "**Supporting detail**: steps, tables, examples and caveats",
+        "**Clear authorship**: who wrote and reviewed the page, with credentials"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "does-structured-data-help-dental-practices-appear-in-ai-search",
+      "text": "Does structured data help dental practices appear in AI search?"
+    },
+    {
+      "type": "answer",
+      "text": "Google says no special schema is required for AI features, but structured data that accurately matches your visible content helps search engines understand your practice. Use `Dentist` markup for locations, `Person` for providers and `FAQPage` only where real Q&A content exists."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Markup",
+        "Use it for",
+        "Common mistake"
+      ],
+      "rows": [
+        [
+          "`Dentist` / `LocalBusiness`",
+          "Each office location",
+          "Hours or address that don’t match the page"
+        ],
+        [
+          "`Person`",
+          "Provider bios",
+          "Credentials not shown on the page"
+        ],
+        [
+          "`FAQPage`",
+          "Genuine question-and-answer sections",
+          "Marking up marketing copy as FAQs"
+        ],
+        [
+          "`Article`",
+          "Blog posts and guides",
+          "Missing author and update date"
+        ],
+        [
+          "`BreadcrumbList`",
+          "Site navigation",
+          "Breadcrumbs that don’t match the URL"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-important-is-e-e-a-t-for-dental-content-in-ai-search",
+      "text": "How important is E-E-A-T for dental content in AI search?"
+    },
+    {
+      "type": "answer",
+      "text": "Very. Dental topics affect people’s health and money, so content should show real experience and expertise. Name the author, have a dentist review clinical content, show credentials and update pages when guidance changes."
+    },
+    {
+      "type": "callout",
+      "title": "Is AI search describing your practice correctly?",
+      "body": [
+        "**Get a free AI-search visibility check.** We’ll test how Google AI Overviews and major AI assistants describe your practice for your key treatments and city, and show you what to fix."
+      ],
+      "cta": {
+        "label": "Check My AI Visibility →",
+        "href": "/free-audit/"
+      },
+      "note": "No contracts · Reviewed by a dental marketing strategist"
+    },
+    {
+      "type": "h2",
+      "id": "practical-steps-for-dental-practices",
+      "text": "Practical Steps for Dental Practices"
+    },
+    {
+      "type": "h3",
+      "id": "what-are-the-first-steps-to-improve-visibility-in-ai-search",
+      "text": "What are the first steps to improve visibility in AI search?"
+    },
+    {
+      "type": "answer",
+      "text": "Start with accuracy and clarity: make your practice name, address, phone, hours, providers and services identical everywhere; rewrite key treatment pages to answer patient questions directly; and make sure every important page is indexed and crawlable."
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Confirm every key page is indexed in Search Console",
+        "Match name, address, phone and hours across website, Google Business Profile and directories",
+        "Add question-led sections with direct answers to top treatment pages",
+        "Publish provider bios with credentials and a clinical reviewer on content",
+        "Keep structured data aligned with visible information",
+        "List languages your team speaks, especially in bilingual markets"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-can-a-dental-practice-measure-traffic-from-ai-search",
+      "text": "How can a dental practice measure traffic from AI search?"
+    },
+    {
+      "type": "answer",
+      "text": "Google counts traffic from AI features in Search Console’s Performance report under the “Web” search type, alongside other search traffic. Combine that with call tracking and form attribution to see which pages generate appointments, and periodically test key questions in AI assistants yourself."
+    },
+    {
+      "type": "h3",
+      "id": "will-ai-search-reduce-website-traffic-for-dentists",
+      "text": "Will AI search reduce website traffic for dentists?"
+    },
+    {
+      "type": "answer",
+      "text": "Some informational searches may produce fewer clicks when answers appear on the results page. But high-intent actions — choosing a provider, calling, booking — still require visiting your profile or website. Focus on being the cited, trusted source and on converting the visits you do earn."
+    },
+    {
+      "type": "h2",
+      "id": "ai-search-in-texas-florida-and-california",
+      "text": "AI Search in Texas, Florida and California"
+    },
+    {
+      "type": "h3",
+      "id": "how-does-ai-search-affect-dentists-in-competitive-metros",
+      "text": "How does AI search affect dentists in competitive metros?"
+    },
+    {
+      "type": "answer",
+      "text": "In dense markets like Los Angeles, Miami and Dallas–Fort Worth, many practices compete for the same questions, so AI answers favor the clearest, most specific and most trusted sources. Neighborhood-level detail, bilingual content and strong reviews help AI tools match your practice to local patient questions."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Market",
+        "AI-search opportunity"
+      ],
+      "rows": [
+        [
+          "Houston, San Antonio",
+          "Spanish-language treatment answers and listed languages"
+        ],
+        [
+          "Dallas–Fort Worth, Austin",
+          "Clear office-by-office information across suburbs"
+        ],
+        [
+          "Miami, Orlando, Tampa",
+          "Emergency availability and multilingual content"
+        ],
+        [
+          "Los Angeles, San Diego, Bay Area",
+          "Deep treatment pages with named, credentialed authors"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "do-privacy-laws-affect-ai-search-tracking-for-dental-websites",
+      "text": "Do privacy laws affect AI-search tracking for dental websites?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes, tracking choices matter. California dentists have received demand letters over website tracking pixels, and HIPAA concerns remain for tracking on pages where patients share health information. Audit analytics and pixels before adding new tracking to measure AI traffic."
+    },
+    {
+      "type": "h2",
+      "id": "writing-content-ai-search-can-use",
+      "text": "Writing Content AI Search Can Use"
+    },
+    {
+      "type": "h3",
+      "id": "how-should-dental-content-be-written-for-ai-search",
+      "text": "How should dental content be written for AI search?"
+    },
+    {
+      "type": "answer",
+      "text": "Answer one clear question per section, put the direct answer first, and then add depth: steps, comparisons, costs and caveats. Use plain language, specific numbers only when you can support them, and headings that match how patients actually ask."
+    },
+    {
+      "type": "p",
+      "text": "Compare two openings for a page about implant cost:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Weak opening",
+        "Strong opening"
+      ],
+      "rows": [
+        [
+          "“At our practice we believe every smile deserves the best care.”",
+          "“The cost of a single dental implant depends on the implant, the crown and any bone grafting. Our consultation includes a 3D scan and a written estimate.”"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The strong version answers the question, names the cost factors and gives a next step — exactly what both a patient and an AI summary need."
+    },
+    {
+      "type": "h3",
+      "id": "do-reviews-influence-ai-answers-about-dentists",
+      "text": "Do reviews influence AI answers about dentists?"
+    },
+    {
+      "type": "answer",
+      "text": "Reviews influence how prominent and trusted a practice appears in local search, and AI tools may draw on information about businesses from across the web. Steady, genuine reviews that mention your services support both local rankings and accurate descriptions of your practice."
+    },
+    {
+      "type": "h3",
+      "id": "should-dentists-use-faq-sections-for-ai-search",
+      "text": "Should dentists use FAQ sections for AI search?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes, when the questions are real. FAQ sections that answer actual patient questions clearly are useful to readers and easy for search systems to understand. Mark them up with `FAQPage` only when the visible content is genuinely question-and-answer."
+    },
+    {
+      "type": "p",
+      "text": "Good dental FAQ topics:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Does insurance cover this treatment?",
+        "How long does it take and how many visits?",
+        "Does it hurt, and what sedation is available?",
+        "What does recovery involve?",
+        "What happens if I wait?"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-mistakes-keep-dental-practices-out-of-ai-answers",
+      "text": "What mistakes keep dental practices out of AI answers?"
+    },
+    {
+      "type": "answer",
+      "text": "Blocking crawlers, hiding key information in images or PDFs, inconsistent addresses and phone numbers across the web, thin or generic content, and missing author and reviewer details. Each makes it harder for search systems to understand and trust the practice."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Mistake",
+        "Fix"
+      ],
+      "rows": [
+        [
+          "Prices and services only in images",
+          "Put key information in text"
+        ],
+        [
+          "Conflicting hours across listings",
+          "Update every listing at once"
+        ],
+        [
+          "No author or reviewer",
+          "Name a writer and a clinical reviewer"
+        ],
+        [
+          "Robots.txt blocking important pages",
+          "Allow crawling of public content"
+        ],
+        [
+          "Generic content copied across sites",
+          "Original answers specific to your practice"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "should-dental-practices-block-ai-crawlers",
+      "text": "Should dental practices block AI crawlers?"
+    },
+    {
+      "type": "answer",
+      "text": "That’s a business decision. Blocking some AI crawlers may limit how certain AI tools use your content, but Google’s AI features rely on Google’s search index, so blocking Googlebot would also remove you from regular search. Most practices benefit from keeping public information crawlable."
+    },
+    {
+      "type": "h3",
+      "id": "does-local-seo-still-matter-if-patients-use-ai-assistants",
+      "text": "Does local SEO still matter if patients use AI assistants?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. When patients ask for a dentist “near me,” Google still relies heavily on local results built from Business Profiles, reviews and websites, and AI tools often draw on the same business information. A strong local presence supports both traditional and AI-driven discovery."
+    },
+    {
+      "type": "p",
+      "text": "That means your Google Business Profile, review routine and location pages remain foundational. AI search adds a layer on top; it doesn’t replace the basics."
+    },
+    {
+      "type": "h3",
+      "id": "should-dentists-publish-spanish-content-for-ai-search",
+      "text": "Should dentists publish Spanish content for AI search?"
+    },
+    {
+      "type": "answer",
+      "text": "If your team serves Spanish-speaking patients, yes. Patients increasingly ask questions in their preferred language, and clear Spanish versions of key treatment and location pages help search systems match your practice to those questions. Only publish languages your team can actually support in person."
+    },
+    {
+      "type": "p",
+      "text": "Start with your highest-value pages — implants, emergency care, new-patient information — and make sure the Spanish pages are reviewed by a fluent speaker rather than machine-translated without review."
+    },
+    {
+      "type": "h3",
+      "id": "how-should-a-dental-practice-test-what-ai-assistants-say-about-it",
+      "text": "How should a dental practice test what AI assistants say about it?"
+    },
+    {
+      "type": "answer",
+      "text": "Once a month, ask Google AI Mode, ChatGPT, Gemini and Perplexity the questions your patients ask — such as “best implant dentist in [city]” or “does [practice name] take [insurance]?” — and record whether your practice appears and whether the details are accurate."
+    },
+    {
+      "type": "p",
+      "text": "Keep a simple log with the date, the question, the tool, whether your practice was mentioned and any errors. Incorrect hours, old addresses or missing services usually trace back to inconsistent listings or unclear website content, which you can fix at the source. Over a few months, the log shows whether your clarity and consistency work is changing how AI tools describe you."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Question to test",
+        "What to check"
+      ],
+      "rows": [
+        [
+          "“Best [treatment] dentist in [city]”",
+          "Is your practice mentioned?"
+        ],
+        [
+          "“Does [practice] take [insurance]?”",
+          "Is the answer accurate?"
+        ],
+        [
+          "“[Practice] hours / location”",
+          "Do details match your profile?"
+        ],
+        [
+          "“Is [treatment] painful?”",
+          "Is your content cited as a source?"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "what-to-expect",
+      "text": "What to Expect"
+    },
+    {
+      "type": "h3",
+      "id": "how-long-does-it-take-to-appear-in-ai-answers",
+      "text": "How long does it take to appear in AI answers?"
+    },
+    {
+      "type": "answer",
+      "text": "There is no fixed timeline, because AI features depend on Google’s index and broader trust signals. Improvements to clarity, indexing and consistency can be reflected as pages are recrawled, while authority and reviews build over months."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Phase",
+        "Timeframe",
+        "Focus"
+      ],
+      "rows": [
+        [
+          "Accuracy",
+          "Weeks 1–2",
+          "Consistent practice data, indexing checks"
+        ],
+        [
+          "Clarity",
+          "Weeks 3–8",
+          "Question-led treatment pages, author and reviewer details"
+        ],
+        [
+          "Trust",
+          "Months 2–6",
+          "Reviews, local links, provider authority"
+        ],
+        [
+          "Monitoring",
+          "Ongoing",
+          "Search Console, call tracking, AI answer spot-checks"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "the-bottom-line",
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "p",
+      "text": "AI search doesn’t require secret tactics — Google says standard SEO fundamentals apply. Practices that publish clear answers, keep their information consistent everywhere, show real expertise and stay crawlable are the ones AI tools can understand, trust and cite. Measure leads, not just visits, and test AI answers regularly."
+    },
+    {
+      "type": "callout",
+      "title": "Be the practice AI recommends",
+      "body": [
+        "**Future-proof your visibility.** Alpha Dental Media helps practices across Texas, Florida and California prepare for AI search with clear treatment content, consistent practice data and reporting tied to new patients."
+      ],
+      "cta": {
+        "label": "Book a Free Strategy Consultation →",
+        "href": "/contact/"
+      },
+      "note": "30 minutes · A clear plan you keep"
+    },
+    {
+      "type": "h2",
+      "id": "sources",
+      "text": "Sources"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Google Search Central — [AI features and your website](https://developers.google.com/search/docs/appearance/ai-features)",
+        "Google Search Central — [Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)",
+        "Google Search Central — [Introduction to structured data](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)",
+        "California Dental Association — [Dentists urged to analyze website tracking functions](https://www.cda.org/newsroom/privacy-hipaa/dentists-urged-to-avoid-legal-risk-by-analyzing-website-tracking-functions/)"
+      ]
+    },
+    {
+      "type": "disclaimer",
+      "text": "Disclaimer: This article is for general educational purposes and is not legal advice. AI search features change frequently, and no placement in AI answers or search results can be guaranteed. Consult a qualified attorney about privacy and tracking obligations, and a qualified dental marketing professional before making significant website changes."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are Google AI Overviews and AI Mode?",
+      "a": "AI Overviews are AI-generated summaries that appear at the top of some Google results, with links to supporting pages. AI Mode is a more conversational search experience for follow-up questions. Both draw on Google’s search index, so pages that rank and are trusted are the ones eligible to be cited."
+    },
+    {
+      "q": "Do dentists need special optimization for AI Overviews?",
+      "a": "No. Google states there are no additional requirements or special optimizations needed to appear in AI Overviews or AI Mode. It recommends continuing SEO fundamentals: allowing crawling, linking internally, keeping important content in text, and making structured data match visible content."
+    },
+    {
+      "q": "How do ChatGPT and other AI assistants decide which dentists to mention?",
+      "a": "AI assistants generate answers from information they can find and trust, which can include websites, business listings, reviews and directories. Practices with consistent, detailed and accurate information across those sources are easier to describe correctly. No one can guarantee placement in an AI answer."
+    },
+    {
+      "q": "What content is most likely to be cited in AI answers about dental care?",
+      "a": "Clear answers to specific patient questions: what a procedure involves, typical cost ranges, candidacy, recovery and how to choose a provider. Pages that answer directly near the top, then explain in depth, are easier for both people and AI systems to use."
+    },
+    {
+      "q": "Does structured data help dental practices appear in AI search?",
+      "a": "Google says no special schema is required for AI features, but structured data that accurately matches your visible content helps search engines understand your practice. Use Dentist markup for locations, Person for providers and FAQPage only where real Q&A content exists."
+    },
+    {
+      "q": "How important is E-E-A-T for dental content in AI search?",
+      "a": "Very. Dental topics affect people’s health and money, so content should show real experience and expertise. Name the author, have a dentist review clinical content, show credentials and update pages when guidance changes."
+    },
+    {
+      "q": "What are the first steps to improve visibility in AI search?",
+      "a": "Start with accuracy and clarity: make your practice name, address, phone, hours, providers and services identical everywhere; rewrite key treatment pages to answer patient questions directly; and make sure every important page is indexed and crawlable."
+    },
+    {
+      "q": "How can a dental practice measure traffic from AI search?",
+      "a": "Google counts traffic from AI features in Search Console’s Performance report under the “Web” search type, alongside other search traffic. Combine that with call tracking and form attribution to see which pages generate appointments, and periodically test key questions in AI assistants yourself."
+    },
+    {
+      "q": "Will AI search reduce website traffic for dentists?",
+      "a": "Some informational searches may produce fewer clicks when answers appear on the results page. But high-intent actions — choosing a provider, calling, booking — still require visiting your profile or website. Focus on being the cited, trusted source and on converting the visits you do earn."
+    },
+    {
+      "q": "How does AI search affect dentists in competitive metros?",
+      "a": "In dense markets like Los Angeles, Miami and Dallas–Fort Worth, many practices compete for the same questions, so AI answers favor the clearest, most specific and most trusted sources. Neighborhood-level detail, bilingual content and strong reviews help AI tools match your practice to local patient questions."
+    },
+    {
+      "q": "Do privacy laws affect AI-search tracking for dental websites?",
+      "a": "Yes, tracking choices matter. California dentists have received demand letters over website tracking pixels, and HIPAA concerns remain for tracking on pages where patients share health information. Audit analytics and pixels before adding new tracking to measure AI traffic."
+    },
+    {
+      "q": "How should dental content be written for AI search?",
+      "a": "Answer one clear question per section, put the direct answer first, and then add depth: steps, comparisons, costs and caveats. Use plain language, specific numbers only when you can support them, and headings that match how patients actually ask."
+    },
+    {
+      "q": "Do reviews influence AI answers about dentists?",
+      "a": "Reviews influence how prominent and trusted a practice appears in local search, and AI tools may draw on information about businesses from across the web. Steady, genuine reviews that mention your services support both local rankings and accurate descriptions of your practice."
+    },
+    {
+      "q": "Should dentists use FAQ sections for AI search?",
+      "a": "Yes, when the questions are real. FAQ sections that answer actual patient questions clearly are useful to readers and easy for search systems to understand. Mark them up with FAQPage only when the visible content is genuinely question-and-answer."
+    },
+    {
+      "q": "What mistakes keep dental practices out of AI answers?",
+      "a": "Blocking crawlers, hiding key information in images or PDFs, inconsistent addresses and phone numbers across the web, thin or generic content, and missing author and reviewer details. Each makes it harder for search systems to understand and trust the practice."
+    },
+    {
+      "q": "Should dental practices block AI crawlers?",
+      "a": "That’s a business decision. Blocking some AI crawlers may limit how certain AI tools use your content, but Google’s AI features rely on Google’s search index, so blocking Googlebot would also remove you from regular search. Most practices benefit from keeping public information crawlable."
+    },
+    {
+      "q": "Does local SEO still matter if patients use AI assistants?",
+      "a": "Yes. When patients ask for a dentist “near me,” Google still relies heavily on local results built from Business Profiles, reviews and websites, and AI tools often draw on the same business information. A strong local presence supports both traditional and AI-driven discovery."
+    },
+    {
+      "q": "Should dentists publish Spanish content for AI search?",
+      "a": "If your team serves Spanish-speaking patients, yes. Patients increasingly ask questions in their preferred language, and clear Spanish versions of key treatment and location pages help search systems match your practice to those questions. Only publish languages your team can actually support in person."
+    },
+    {
+      "q": "How should a dental practice test what AI assistants say about it?",
+      "a": "Once a month, ask Google AI Mode, ChatGPT, Gemini and Perplexity the questions your patients ask — such as “best implant dentist in [city]” or “does [practice name] take [insurance]?” — and record whether your practice appears and whether the details are accurate."
+    },
+    {
+      "q": "How long does it take to appear in AI answers?",
+      "a": "There is no fixed timeline, because AI features depend on Google’s index and broader trust signals. Improvements to clarity, indexing and consistency can be reflected as pages are recrawled, while authority and reviews build over months."
+    }
+  ],
+  "figures": [
+    {
+      "id": "ai-answer-path",
+      "after": "how-ai-search-works-for-dental-queries",
+      "src": "/images/blog/ai-overviews-dental-visibility/ai-answer-path.svg",
+      "alt": "Infographic showing how a dental practice page becomes eligible for AI Overviews: crawlable, indexed, clear and trusted, then cited.",
+      "caption": "Google says no special optimization is needed for AI Overviews or AI Mode. Pages must be indexed and snippet-eligible, and clear, trusted content is what gets cited.",
+      "width": 1200,
+      "height": 409
+    },
+    {
+      "id": "ai-content-structure",
+      "after": "writing-content-ai-search-can-use",
+      "src": "/images/blog/ai-overviews-dental-visibility/ai-content-structure.svg",
+      "alt": "Infographic of a four-part content structure for dental pages: question heading, direct answer, supporting detail and clear authorship.",
+      "caption": "Leading each section with a patient question and a direct answer, then adding detail and named expertise, makes dental content easy for patients, Google and AI assistants to use.",
+      "width": 1200,
+      "height": 373
+    }
+  ],
+  "image": "/images/blog/ai-overviews-dental-visibility/featured.png",
+  "imageSvg": "/images/blog/ai-overviews-dental-visibility/featured.svg",
+  "imageAlt": "What Google AI Overviews and AI Mode Mean for Dental Practice Visibility — Alpha Dental Media guide"
+}

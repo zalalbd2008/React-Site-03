@@ -1,0 +1,613 @@
+{
+  "slug": "reviews-without-privacy-risk",
+  "category": "Reputation",
+  "title": "How Dentists Can Ask Every Patient for a Google Review Without Risking Patient Privacy",
+  "metaTitle": "How Dentists Can Get More Google Reviews Without HIPAA Risk",
+  "metaDescription": "Ask every patient for a review, follow Google’s rules and avoid HIPAA mistakes in replies. Scripts, timing and texting consent for dental practices.",
+  "author": "[Author name], [Title], Alpha Dental Media",
+  "reviewer": "[Reviewer name], [credentials]",
+  "updated": "2026-11-10",
+  "time": "10 min",
+  "takeaways": [
+    "**Ask every patient**, not just happy ones. Google prohibits selective solicitation and incentives.",
+    "**Never confirm someone is a patient** in a review reply. HHS has settled with dental practices for exactly that.",
+    "**Text requests need consent**; federal and state telemarketing laws apply to marketing texts.",
+    "A **consistent, simple routine** beats occasional review drives."
+  ],
+  "content": [
+    {
+      "type": "p",
+      "text": "Reviews are one of the few local ranking signals a practice can grow every day. Google says more reviews and positive ratings can help local ranking, and patients compare star ratings before they ever call. But dental practices face two rulebooks at once: Google’s review policies and patient privacy law. Getting either wrong can cost reviews, rankings or a federal settlement."
+    },
+    {
+      "type": "p",
+      "text": "This guide covers how to ask, when to ask, what to say, how to reply, and what changes for practices in Texas, Florida and California."
+    },
+    {
+      "type": "h2",
+      "id": "asking-for-reviews-the-right-way",
+      "text": "Asking for Reviews the Right Way"
+    },
+    {
+      "type": "h3",
+      "id": "is-it-allowed-for-a-dentist-to-ask-patients-for-google-reviews",
+      "text": "Is it allowed for a dentist to ask patients for Google reviews?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. Google allows businesses to ask customers for reviews. What it prohibits is offering incentives, selectively asking only satisfied customers, pressuring people to review on the premises, and asking staff to hit review quotas. Ask every patient the same way and make it easy."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Allowed",
+        "Not allowed under Google’s policies"
+      ],
+      "rows": [
+        [
+          "Asking every patient for honest feedback",
+          "Discounts, gifts or raffles for reviews"
+        ],
+        [
+          "Sending a direct link to your review form",
+          "Asking only patients you expect to be happy"
+        ],
+        [
+          "Reminding patients once by text or email",
+          "Requiring a review while the patient is in the office"
+        ],
+        [
+          "Thanking patients for any review",
+          "Paying staff per review or setting review quotas"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "when-is-the-best-time-to-ask-a-dental-patient-for-a-review",
+      "text": "When is the best time to ask a dental patient for a review?"
+    },
+    {
+      "type": "answer",
+      "text": "Shortly after a positive visit, while the experience is fresh — typically the same day or the next morning. A verbal ask at checkout followed by one short message with a direct link works well for most practices."
+    },
+    {
+      "type": "p",
+      "text": "A simple routine:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "**At checkout:** “We’d really appreciate an honest Google review if you have a minute later.”",
+        "**Same day or next morning:** one text or email with the direct review link.",
+        "**No more than one reminder.** Persistence beyond that annoys patients."
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-should-a-dental-review-request-message-say",
+      "text": "What should a dental review request message say?"
+    },
+    {
+      "type": "answer",
+      "text": "Keep it short, personal and neutral: thank the patient, ask for honest feedback and include a direct link. Don’t mention their treatment, don’t offer anything in return and don’t ask only for five-star reviews."
+    },
+    {
+      "type": "quote",
+      "text": "“Hi [First name], thank you for visiting [Practice name] today. If you have a moment, we’d appreciate your honest feedback on Google: [link]. Reply STOP to opt out.”"
+    },
+    {
+      "type": "h3",
+      "id": "can-review-software-filter-out-unhappy-patients-before-they-reach-goog",
+      "text": "Can review software filter out unhappy patients before they reach Google?"
+    },
+    {
+      "type": "answer",
+      "text": "Not in a way that blocks them from reviewing. Google prohibits discouraging negative reviews or selectively soliciting positive ones. A private feedback form is fine, but every patient should still be invited to leave a public review if they wish."
+    },
+    {
+      "type": "h2",
+      "id": "replying-without-violating-hipaa",
+      "text": "Replying Without Violating HIPAA"
+    },
+    {
+      "type": "h3",
+      "id": "how-should-a-dentist-reply-to-a-negative-google-review",
+      "text": "How should a dentist reply to a negative Google review?"
+    },
+    {
+      "type": "answer",
+      "text": "Reply briefly and professionally, without confirming the reviewer is a patient or mentioning any visit, treatment, insurance or billing detail. Invite them to contact the office directly. HHS settled with a California dental practice for $23,000 in 2022 over patient information disclosed in review replies."
+    },
+    {
+      "type": "label",
+      "text": "A HIPAA-mindful reply template"
+    },
+    {
+      "type": "quote",
+      "text": "“Thank you for sharing your feedback. We take every concern seriously and would welcome the chance to talk with you directly. Please call our office manager at [phone].”"
+    },
+    {
+      "type": "p",
+      "text": "Never include, even to correct a false claim:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Confirmation that the person is or was a patient",
+        "Dates, procedures, diagnoses or appointment history",
+        "Insurance, billing or payment details",
+        "Anything from the clinical record"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "can-a-dentist-reply-to-positive-reviews-by-mentioning-the-treatment",
+      "text": "Can a dentist reply to positive reviews by mentioning the treatment?"
+    },
+    {
+      "type": "answer",
+      "text": "It’s safest not to. Even when a patient discusses their own treatment publicly, adding details or confirming them in your reply can disclose protected health information. A warm, general thank-you is both safe and effective."
+    },
+    {
+      "type": "quote",
+      "text": "“Thank you so much for the kind words — our team loves hearing this. We look forward to seeing you again.”"
+    },
+    {
+      "type": "h3",
+      "id": "should-a-dental-practice-reply-to-every-review",
+      "text": "Should a dental practice reply to every review?"
+    },
+    {
+      "type": "answer",
+      "text": "Replying to reviews shows patients you’re attentive, and a short, safe template makes it easy to reply consistently. Approve reply templates with your compliance advisor and have one trained person manage responses."
+    },
+    {
+      "type": "callout",
+      "title": "Want a steady stream of reviews without the risk?",
+      "body": [
+        "**Get a free reputation audit.** We’ll compare your rating, review volume and recency against the top practices near you and show you a compliant review routine your team can run in minutes a day."
+      ],
+      "cta": {
+        "label": "Get My Free Reputation Audit →",
+        "href": "/free-audit/"
+      },
+      "note": "No contracts · Reviewed by a dental marketing strategist"
+    },
+    {
+      "type": "h2",
+      "id": "texting-patients-consent-rules",
+      "text": "Texting Patients: Consent Rules"
+    },
+    {
+      "type": "h3",
+      "id": "do-dentists-need-consent-to-text-patients-for-reviews",
+      "text": "Do dentists need consent to text patients for reviews?"
+    },
+    {
+      "type": "answer",
+      "text": "Generally, yes. Under the federal Telephone Consumer Protection Act, marketing texts sent with automated systems require prior express written consent, and review requests can be treated as marketing. Collect clear written consent at intake and honor opt-outs immediately."
+    },
+    {
+      "type": "p",
+      "text": "Good consent practice:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Include texting consent language on intake forms, separate from appointment reminders",
+        "Record when and how consent was given",
+        "Include opt-out instructions in every message",
+        "Send during reasonable local hours"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "are-there-state-texting-rules-in-texas-florida-and-california",
+      "text": "Are there state texting rules in Texas, Florida and California?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes, states can add their own rules. Florida’s Telephone Solicitation Act is a notable example and has generated significant litigation, so Florida practices should be especially careful with automated marketing texts. Have your texting setup reviewed by counsel in your state."
+    },
+    {
+      "type": "h2",
+      "id": "reviews-in-texas-florida-and-california",
+      "text": "Reviews in Texas, Florida and California"
+    },
+    {
+      "type": "h3",
+      "id": "how-do-review-strategies-differ-in-major-metros",
+      "text": "How do review strategies differ in major metros?"
+    },
+    {
+      "type": "answer",
+      "text": "The rules are the same, but expectations differ. In competitive metros like Los Angeles, Miami and Dallas–Fort Worth, top practices often have large, recent review counts, so consistency matters more than any single push. In bilingual markets, reviews in Spanish build trust with Spanish-speaking patients."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Market",
+        "What to focus on"
+      ],
+      "rows": [
+        [
+          "Houston, Dallas–Fort Worth",
+          "Review recency at each office, not just the main location"
+        ],
+        [
+          "San Antonio, Miami, Los Angeles",
+          "Inviting reviews in the patient’s preferred language"
+        ],
+        [
+          "Tampa, Orlando",
+          "Asking seasonal and visiting patients before they leave town"
+        ],
+        [
+          "San Diego, Bay Area, Sacramento",
+          "Steady weekly volume to keep pace with dense competition"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "do-texas-practices-have-extra-privacy-obligations",
+      "text": "Do Texas practices have extra privacy obligations?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. Texas’s medical records privacy law, commonly called HB 300, adds requirements beyond HIPAA, including employee privacy training. Staff who manage reviews and replies should be included in that training."
+    },
+    {
+      "type": "h2",
+      "id": "building-a-review-routine-that-lasts",
+      "text": "Building a Review Routine That Lasts"
+    },
+    {
+      "type": "h3",
+      "id": "who-on-the-dental-team-should-ask-for-reviews",
+      "text": "Who on the dental team should ask for reviews?"
+    },
+    {
+      "type": "answer",
+      "text": "Everyone who talks with patients can help, but one person should own the process. Clinicians can mention it naturally at the end of a visit, the front desk confirms at checkout, and a designated team member sends follow-up messages and manages replies."
+    },
+    {
+      "type": "p",
+      "text": "Assign clear roles:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Dentist or hygienist:** a natural, verbal mention when a patient expresses gratitude",
+        "**Front desk:** a consistent ask at checkout for every patient",
+        "**Reputation lead:** sends follow-ups, monitors new reviews daily and posts approved replies",
+        "**Practice manager:** reviews monthly results and handles escalations"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Avoid tying staff pay to review counts — Google’s policies prohibit asking staff to collect a set number of reviews."
+    },
+    {
+      "type": "h3",
+      "id": "how-should-a-practice-handle-a-fake-or-abusive-review",
+      "text": "How should a practice handle a fake or abusive review?"
+    },
+    {
+      "type": "answer",
+      "text": "Don’t argue publicly or reveal patient details. Flag reviews that violate Google’s policies — spam, off-topic content, conflicts of interest or harassment — through your Business Profile, and post a calm, general reply if appropriate."
+    },
+    {
+      "type": "p",
+      "text": "A safe general reply to a review that may not be from a patient:"
+    },
+    {
+      "type": "quote",
+      "text": "“We take all feedback seriously but can’t discuss anyone’s care online. Please contact our office manager at [phone] so we can look into this.”"
+    },
+    {
+      "type": "h3",
+      "id": "should-a-dental-practice-ask-for-reviews-on-yelp-facebook-or-healthgra",
+      "text": "Should a dental practice ask for reviews on Yelp, Facebook or Healthgrades too?"
+    },
+    {
+      "type": "answer",
+      "text": "Google is usually the priority because it powers the map pack, but patients also consult other platforms. Check each platform’s rules — some, like Yelp, discourage businesses from soliciting reviews — and don’t send every patient to multiple sites at once."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Platform",
+        "Typical role",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Google",
+          "Map pack and local search",
+          "Usually the first priority"
+        ],
+        [
+          "Facebook",
+          "Community and social proof",
+          "Recommendations from local followers"
+        ],
+        [
+          "Healthcare directories",
+          "Provider research",
+          "Keep profiles accurate and complete"
+        ],
+        [
+          "Yelp",
+          "Some local markets",
+          "Check its rules on soliciting reviews"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-review-metrics-should-a-dental-practice-track",
+      "text": "What review metrics should a dental practice track?"
+    },
+    {
+      "type": "answer",
+      "text": "Track average rating, number of new reviews each month, how recent your latest reviews are, response rate and response time. Compare those numbers with the practices currently in your local map pack."
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "New reviews per month by office",
+        "Average rating trend",
+        "Days since most recent review",
+        "Percentage of reviews replied to",
+        "Average time to reply"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-mistakes-damage-a-practices-review-profile",
+      "text": "What mistakes damage a practice’s review profile?"
+    },
+    {
+      "type": "answer",
+      "text": "Buying reviews, offering incentives, gating requests, posting reviews from staff or family, replying defensively, and disclosing patient information. These can lead to removed reviews, profile restrictions, regulatory risk and lost patient trust."
+    },
+    {
+      "type": "h3",
+      "id": "can-a-dental-practice-reply-to-reviews-in-spanish",
+      "text": "Can a dental practice reply to reviews in Spanish?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. Replying in the same language the reviewer used is courteous and shows Spanish-speaking patients they’ll be understood. The same privacy rules apply in every language: never confirm the person is a patient or mention any detail of their care."
+    },
+    {
+      "type": "h3",
+      "id": "what-should-a-practice-do-if-a-patient-threatens-a-bad-review",
+      "text": "What should a practice do if a patient threatens a bad review?"
+    },
+    {
+      "type": "answer",
+      "text": "Stay calm and focus on resolving the concern privately. Listen, apologize for the experience where appropriate and offer a direct conversation with the office manager. Never offer money or services in exchange for not posting or for removing a review — Google prohibits incentives tied to reviews."
+    },
+    {
+      "type": "p",
+      "text": "Document the conversation in your internal records, not in public replies."
+    },
+    {
+      "type": "p",
+      "text": "Train every team member who answers phones or messages on this approach so responses stay consistent and compliant."
+    },
+    {
+      "type": "h3",
+      "id": "how-can-a-practice-encourage-reviews-that-mention-specific-services",
+      "text": "How can a practice encourage reviews that mention specific services?"
+    },
+    {
+      "type": "answer",
+      "text": "You can’t tell patients what to write, but you can make the visit memorable and ask at the right moment. Asking soon after an implant consultation, a cosmetic result or an emergency visit naturally produces reviews describing those experiences, which help both patients and local relevance."
+    },
+    {
+      "type": "p",
+      "text": "Practical approaches that stay within Google’s rules:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ask everyone, but time the ask well — right after a positive milestone",
+        "Use a neutral request such as “we’d love your honest feedback on your visit”",
+        "Never suggest wording, star ratings or keywords",
+        "Thank reviewers in a general way that adds no health details"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Reviews that naturally mention services, neighborhoods and staff by first name read as genuine to future patients. That authenticity is worth far more than any scripted phrasing — and scripted reviews risk violating the platform’s policies."
+    },
+    {
+      "type": "h2",
+      "id": "what-to-expect",
+      "text": "What to Expect"
+    },
+    {
+      "type": "h3",
+      "id": "how-quickly-can-a-dental-practice-grow-its-google-reviews",
+      "text": "How quickly can a dental practice grow its Google reviews?"
+    },
+    {
+      "type": "answer",
+      "text": "A consistent daily routine typically produces steady growth within the first month. The exact pace depends on patient volume and how reliably the team asks. Recency matters, so a steady flow beats occasional bursts."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Timeframe",
+        "Milestone"
+      ],
+      "rows": [
+        [
+          "Week 1",
+          "Consent language, review link, reply templates approved"
+        ],
+        [
+          "Weeks 2–4",
+          "Every patient asked at checkout and by one message"
+        ],
+        [
+          "Months 2–3",
+          "Review volume and recency approaching local leaders"
+        ],
+        [
+          "Ongoing",
+          "Monthly reporting on rating, volume and response time"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "the-bottom-line",
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "p",
+      "text": "A steady stream of honest reviews comes from a simple routine: ask every patient, send one easy link with consent, remind once and reply without patient details. Stay inside Google’s rules and HIPAA, train every team member, and recency and rating will build month after month."
+    },
+    {
+      "type": "callout",
+      "title": "Turn happy patients into your best marketing",
+      "body": [
+        "**Compliant review growth, handled for you.** Alpha Dental Media runs reputation management for dental practices across Texas, Florida and California — consent-aware requests, HIPAA-safe replies and monthly reporting."
+      ],
+      "cta": {
+        "label": "Book a Free Strategy Consultation →",
+        "href": "/contact/"
+      },
+      "note": "30 minutes · A clear plan you keep"
+    },
+    {
+      "type": "h2",
+      "id": "sources",
+      "text": "Sources"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Google Maps — [Prohibited and restricted content](https://support.google.com/contributionpolicy/answer/7400114?hl=en)",
+        "Google Business Profile Help — [How to improve your local ranking on Google](https://support.google.com/business/answer/7091?hl=en)",
+        "U.S. HHS Office for Civil Rights — [Resolution agreement: New Vision Dental](https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/new-vision/index.html)",
+        "Federal Communications Commission — [Telemarketing and robocalls](https://www.fcc.gov/general/telemarketing-and-robocalls)",
+        "HIPAA Journal — [Texas HB 300 requirements](https://www.hipaajournal.com/texas-hb300/)"
+      ]
+    },
+    {
+      "type": "disclaimer",
+      "text": "Disclaimer: This article is for general educational purposes and is not legal or HIPAA compliance advice. Privacy, telemarketing and platform rules change and vary by state. Consult a qualified healthcare attorney or compliance professional before implementing review requests, texting programs or reply templates."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it allowed for a dentist to ask patients for Google reviews?",
+      "a": "Yes. Google allows businesses to ask customers for reviews. What it prohibits is offering incentives, selectively asking only satisfied customers, pressuring people to review on the premises, and asking staff to hit review quotas. Ask every patient the same way and make it easy."
+    },
+    {
+      "q": "When is the best time to ask a dental patient for a review?",
+      "a": "Shortly after a positive visit, while the experience is fresh — typically the same day or the next morning. A verbal ask at checkout followed by one short message with a direct link works well for most practices."
+    },
+    {
+      "q": "What should a dental review request message say?",
+      "a": "Keep it short, personal and neutral: thank the patient, ask for honest feedback and include a direct link. Don’t mention their treatment, don’t offer anything in return and don’t ask only for five-star reviews."
+    },
+    {
+      "q": "Can review software filter out unhappy patients before they reach Google?",
+      "a": "Not in a way that blocks them from reviewing. Google prohibits discouraging negative reviews or selectively soliciting positive ones. A private feedback form is fine, but every patient should still be invited to leave a public review if they wish."
+    },
+    {
+      "q": "How should a dentist reply to a negative Google review?",
+      "a": "Reply briefly and professionally, without confirming the reviewer is a patient or mentioning any visit, treatment, insurance or billing detail. Invite them to contact the office directly. HHS settled with a California dental practice for $23,000 in 2022 over patient information disclosed in review replies."
+    },
+    {
+      "q": "Can a dentist reply to positive reviews by mentioning the treatment?",
+      "a": "It’s safest not to. Even when a patient discusses their own treatment publicly, adding details or confirming them in your reply can disclose protected health information. A warm, general thank-you is both safe and effective."
+    },
+    {
+      "q": "Should a dental practice reply to every review?",
+      "a": "Replying to reviews shows patients you’re attentive, and a short, safe template makes it easy to reply consistently. Approve reply templates with your compliance advisor and have one trained person manage responses."
+    },
+    {
+      "q": "Do dentists need consent to text patients for reviews?",
+      "a": "Generally, yes. Under the federal Telephone Consumer Protection Act, marketing texts sent with automated systems require prior express written consent, and review requests can be treated as marketing. Collect clear written consent at intake and honor opt-outs immediately."
+    },
+    {
+      "q": "Are there state texting rules in Texas, Florida and California?",
+      "a": "Yes, states can add their own rules. Florida’s Telephone Solicitation Act is a notable example and has generated significant litigation, so Florida practices should be especially careful with automated marketing texts. Have your texting setup reviewed by counsel in your state."
+    },
+    {
+      "q": "How do review strategies differ in major metros?",
+      "a": "The rules are the same, but expectations differ. In competitive metros like Los Angeles, Miami and Dallas–Fort Worth, top practices often have large, recent review counts, so consistency matters more than any single push. In bilingual markets, reviews in Spanish build trust with Spanish-speaking patients."
+    },
+    {
+      "q": "Do Texas practices have extra privacy obligations?",
+      "a": "Yes. Texas’s medical records privacy law, commonly called HB 300, adds requirements beyond HIPAA, including employee privacy training. Staff who manage reviews and replies should be included in that training."
+    },
+    {
+      "q": "Who on the dental team should ask for reviews?",
+      "a": "Everyone who talks with patients can help, but one person should own the process. Clinicians can mention it naturally at the end of a visit, the front desk confirms at checkout, and a designated team member sends follow-up messages and manages replies."
+    },
+    {
+      "q": "How should a practice handle a fake or abusive review?",
+      "a": "Don’t argue publicly or reveal patient details. Flag reviews that violate Google’s policies — spam, off-topic content, conflicts of interest or harassment — through your Business Profile, and post a calm, general reply if appropriate."
+    },
+    {
+      "q": "Should a dental practice ask for reviews on Yelp, Facebook or Healthgrades too?",
+      "a": "Google is usually the priority because it powers the map pack, but patients also consult other platforms. Check each platform’s rules — some, like Yelp, discourage businesses from soliciting reviews — and don’t send every patient to multiple sites at once."
+    },
+    {
+      "q": "What review metrics should a dental practice track?",
+      "a": "Track average rating, number of new reviews each month, how recent your latest reviews are, response rate and response time. Compare those numbers with the practices currently in your local map pack."
+    },
+    {
+      "q": "What mistakes damage a practice’s review profile?",
+      "a": "Buying reviews, offering incentives, gating requests, posting reviews from staff or family, replying defensively, and disclosing patient information. These can lead to removed reviews, profile restrictions, regulatory risk and lost patient trust."
+    },
+    {
+      "q": "Can a dental practice reply to reviews in Spanish?",
+      "a": "Yes. Replying in the same language the reviewer used is courteous and shows Spanish-speaking patients they’ll be understood. The same privacy rules apply in every language: never confirm the person is a patient or mention any detail of their care."
+    },
+    {
+      "q": "What should a practice do if a patient threatens a bad review?",
+      "a": "Stay calm and focus on resolving the concern privately. Listen, apologize for the experience where appropriate and offer a direct conversation with the office manager. Never offer money or services in exchange for not posting or for removing a review — Google prohibits incentives tied to reviews."
+    },
+    {
+      "q": "How can a practice encourage reviews that mention specific services?",
+      "a": "You can’t tell patients what to write, but you can make the visit memorable and ask at the right moment. Asking soon after an implant consultation, a cosmetic result or an emergency visit naturally produces reviews describing those experiences, which help both patients and local relevance."
+    },
+    {
+      "q": "How quickly can a dental practice grow its Google reviews?",
+      "a": "A consistent daily routine typically produces steady growth within the first month. The exact pace depends on patient volume and how reliably the team asks. Recency matters, so a steady flow beats occasional bursts."
+    }
+  ],
+  "figures": [
+    {
+      "id": "review-allowed",
+      "after": "asking-for-reviews-the-right-way",
+      "src": "/images/blog/reviews-without-privacy-risk/review-allowed.svg",
+      "alt": "Comparison infographic of allowed and prohibited ways for dental practices to ask patients for Google reviews.",
+      "caption": "Google allows practices to ask for reviews but prohibits incentives, selective solicitation, on-site pressure and staff quotas. Asking every patient the same way keeps the profile safe.",
+      "width": 1200,
+      "height": 610
+    },
+    {
+      "id": "review-routine",
+      "after": "building-a-review-routine-that-lasts",
+      "src": "/images/blog/reviews-without-privacy-risk/review-routine.svg",
+      "alt": "Four-step review routine infographic for dentists: ask at checkout, send one message, one reminder, reply without health details.",
+      "caption": "A simple, consistent routine — ask, send one message, remind once and reply without patient details — builds review volume and recency while respecting HIPAA and Google’s rules.",
+      "width": 1200,
+      "height": 409
+    }
+  ],
+  "image": "/images/blog/reviews-without-privacy-risk/featured.png",
+  "imageSvg": "/images/blog/reviews-without-privacy-risk/featured.svg",
+  "imageAlt": "How Dentists Can Ask Every Patient for a Google Review Without Risking Patient Privacy — Alpha Dental Media guide"
+}

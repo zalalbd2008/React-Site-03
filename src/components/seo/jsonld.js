@@ -52,11 +52,18 @@ export const serviceJsonLd = ({ name, description, path, serviceType }) => ({
   audience: { '@type': 'Audience', audienceType: 'Dental practices' },
 });
 
-export const articleJsonLd = ({ title, description, path, datePublished, dateModified, authorName }) => ({
+/** images: absolute/relative URL strings or { src, caption, width, height } (infographics). */
+const imageObject = (im) => (typeof im === 'string' ? abs(im) : {
+  '@type': 'ImageObject', contentUrl: abs(im.src), url: abs(im.src),
+  ...(im.caption ? { caption: im.caption } : {}), ...(im.width ? { width: im.width, height: im.height } : {}),
+});
+
+export const articleJsonLd = ({ title, description, path, datePublished, dateModified, authorName, images }) => ({
   '@context': 'https://schema.org',
   '@type': 'Article',
   headline: title,
   description,
+  ...(images?.length ? { image: images.map(imageObject) } : {}),
   mainEntityOfPage: abs(path),
   ...(datePublished ? { datePublished } : {}),
   ...(dateModified ? { dateModified } : {}),

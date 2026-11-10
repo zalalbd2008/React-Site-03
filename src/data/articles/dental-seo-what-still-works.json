@@ -1,0 +1,580 @@
+{
+  "slug": "dental-seo-what-still-works",
+  "category": "SEO",
+  "title": "Dental SEO in 2026: What Still Works (and What Doesn’t) for Practices in Texas, Florida & California",
+  "metaTitle": "Dental SEO in 2026: What Works for Practices in TX, FL & CA",
+  "metaDescription": "What still moves dental SEO rankings in 2026 — and what wastes budget. Treatment pages, technical health, local signals and AI search, for major US metros.",
+  "author": "[Author name], [Title], Alpha Dental Media",
+  "reviewer": "[Reviewer name], [credentials]",
+  "updated": "2026-11-10",
+  "time": "11 min",
+  "takeaways": [
+    "Google says there are **no special optimizations** needed for AI Overviews — strong, standard SEO is what earns visibility there too.",
+    "**Treatment pages** written for patients remain the highest-return SEO asset most practices underinvest in.",
+    "**Local signals** — your Google Business Profile, reviews and location pages — drive most new-patient searches.",
+    "Thin city pages, bought links and keyword stuffing now cost more than they return."
+  ],
+  "content": [
+    {
+      "type": "p",
+      "text": "Dental SEO has changed more in the last two years than in the previous ten. AI-generated answers sit above search results, map packs dominate local queries, and Google keeps raising the bar for health content. For practices in competitive markets like Houston, Miami and Los Angeles, the gap between SEO that produces new patients and SEO that produces reports has never been wider."
+    },
+    {
+      "type": "p",
+      "text": "This guide separates what still works from what no longer does, using Google’s own published guidance as the reference point."
+    },
+    {
+      "type": "h2",
+      "id": "what-still-works-in-dental-seo",
+      "text": "What Still Works in Dental SEO"
+    },
+    {
+      "type": "h3",
+      "id": "does-seo-still-work-for-dental-practices-in-2026",
+      "text": "Does SEO still work for dental practices in 2026?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. Patients still search for dentists, treatments and costs, and Google still ranks the pages that answer those searches best. What changed is the standard: helpful, accurate, experience-backed content and a strong local presence now matter far more than volume of pages or links."
+    },
+    {
+      "type": "p",
+      "text": "The practices that win share three habits: they publish fewer but deeper pages, they keep their local data accurate, and they measure SEO by consultations booked rather than traffic alone."
+    },
+    {
+      "type": "h3",
+      "id": "what-kind-of-content-ranks-best-for-dentists",
+      "text": "What kind of content ranks best for dentists?"
+    },
+    {
+      "type": "answer",
+      "text": "Content that answers real patient questions completely: what a treatment involves, who it suits, cost ranges, comfort and recovery, and why your practice is qualified. Google’s guidance on helpful content rewards pages created for people first, with clear expertise and first-hand experience."
+    },
+    {
+      "type": "p",
+      "text": "High-performing dental content usually includes:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Treatment pages** for the procedures you most want to grow (implants, aligners, veneers, emergency care).",
+        "**Provider bios** with credentials, training and memberships.",
+        "**Cost and financing explanations** that are honest about ranges and insurance.",
+        "**Answers to the questions your front desk hears every week.**"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "is-technical-seo-still-important-for-dental-websites",
+      "text": "Is technical SEO still important for dental websites?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. If Google can’t crawl, render or trust your pages, content quality doesn’t matter. Fast mobile performance, secure HTTPS, clean indexing, correct structured data and accessible design form the foundation that lets everything else rank."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Technical area",
+        "What good looks like",
+        "Common dental-site problem"
+      ],
+      "rows": [
+        [
+          "Speed and mobile",
+          "Pages load quickly on phones",
+          "Oversized sliders and video headers"
+        ],
+        [
+          "Indexing",
+          "Every important page indexed once",
+          "Duplicate city pages, staging sites indexed"
+        ],
+        [
+          "Structured data",
+          "`Dentist` schema matching visible info",
+          "Wrong hours or address in schema"
+        ],
+        [
+          "Accessibility",
+          "Readable contrast, labeled forms, alt text",
+          "Image-only text, unlabeled booking forms"
+        ],
+        [
+          "Security",
+          "HTTPS everywhere",
+          "Mixed-content warnings on forms"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-important-are-local-signals-for-dental-seo",
+      "text": "How important are local signals for dental SEO?"
+    },
+    {
+      "type": "answer",
+      "text": "For most practices, local signals matter most. Google says local results depend on relevance, distance and popularity, and that complete profiles and more positive reviews can help. Your Google Business Profile, reviews and location pages often drive more new-patient calls than your website’s organic rankings."
+    },
+    {
+      "type": "p",
+      "text": "See our full [local SEO guide for dentists](/blog/local-seo-for-dentists/) for profile optimization, review strategy and troubleshooting."
+    },
+    {
+      "type": "callout",
+      "title": "Is your SEO producing patients — or just reports?",
+      "body": [
+        "**Get a free dental SEO audit.** We’ll review your treatment pages, technical health and local visibility against the practices outranking you, and show you exactly which fixes move the needle first."
+      ],
+      "cta": {
+        "label": "Get My Free SEO Audit →",
+        "href": "/free-audit/"
+      },
+      "note": "No contracts · Reviewed by a dental SEO strategist"
+    },
+    {
+      "type": "h2",
+      "id": "what-no-longer-works-and-can-hurt",
+      "text": "What No Longer Works (and Can Hurt)"
+    },
+    {
+      "type": "h3",
+      "id": "do-city-name-landing-pages-still-help-dentists-rank",
+      "text": "Do city-name landing pages still help dentists rank?"
+    },
+    {
+      "type": "answer",
+      "text": "Not when they’re templates. Pages that swap a city name into identical copy give patients and Google little value and can be treated as low-quality or doorway pages. Location pages work only when each one has genuinely unique, useful information about that office or service area."
+    },
+    {
+      "type": "p",
+      "text": "A practice in Dallas does not need 40 near-identical pages for every suburb. It needs a strong page for each office and, where it truly serves patients, a small number of distinct area pages."
+    },
+    {
+      "type": "h3",
+      "id": "should-a-dental-practice-buy-backlinks",
+      "text": "Should a dental practice buy backlinks?"
+    },
+    {
+      "type": "answer",
+      "text": "No. Google’s spam policies prohibit buying links to manipulate rankings, and paid link networks carry real risk with little lasting benefit. Earn links through local sponsorships, community involvement, professional associations and content other sites genuinely want to reference."
+    },
+    {
+      "type": "h3",
+      "id": "does-keyword-stuffing-still-work-for-dental-keywords",
+      "text": "Does keyword stuffing still work for dental keywords?"
+    },
+    {
+      "type": "answer",
+      "text": "No. Repeating “best dentist in Houston” throughout a page makes it harder to read and does not improve rankings. Write naturally, cover the topic completely, and let headings and structure signal relevance."
+    },
+    {
+      "type": "h3",
+      "id": "will-ai-written-content-rank-for-dental-topics",
+      "text": "Will AI-written content rank for dental topics?"
+    },
+    {
+      "type": "answer",
+      "text": "AI tools can help draft, but unedited, generic AI content rarely ranks or converts for health topics. Google evaluates whether content is helpful and trustworthy regardless of how it was produced, so every treatment page should be reviewed for accuracy by a clinician and show real expertise."
+    },
+    {
+      "type": "h2",
+      "id": "how-ai-search-changes-dental-seo",
+      "text": "How AI Search Changes Dental SEO"
+    },
+    {
+      "type": "h3",
+      "id": "do-dentists-need-special-optimization-for-google-ai-overviews",
+      "text": "Do dentists need special optimization for Google AI Overviews?"
+    },
+    {
+      "type": "answer",
+      "text": "No. Google states there are no additional requirements or special optimizations needed to appear in AI Overviews or AI Mode. Pages must be indexed and eligible to show with a snippet, and existing SEO fundamentals continue to apply."
+    },
+    {
+      "type": "p",
+      "text": "That makes the basics more valuable, not less: clear answers, crawlable text, accurate structured data and strong internal linking. Read more in [What AI Overviews Mean for Dental Practice Visibility](/blog/ai-overviews-dental-visibility/)."
+    },
+    {
+      "type": "h3",
+      "id": "how-can-i-tell-if-ai-search-is-sending-patients-to-my-practice",
+      "text": "How can I tell if AI search is sending patients to my practice?"
+    },
+    {
+      "type": "answer",
+      "text": "Google counts traffic from AI features within overall Search traffic in Search Console’s Performance report, under the “Web” search type. Pair that with call tracking and form attribution to see whether search visits turn into booked appointments."
+    },
+    {
+      "type": "h2",
+      "id": "dental-seo-in-texas-florida-and-california",
+      "text": "Dental SEO in Texas, Florida and California"
+    },
+    {
+      "type": "h3",
+      "id": "how-does-dental-seo-differ-in-major-texas-florida-and-california-metro",
+      "text": "How does dental SEO differ in major Texas, Florida and California metros?"
+    },
+    {
+      "type": "answer",
+      "text": "The fundamentals are the same, but competition and audience differ. Sprawling metros like Houston and Dallas–Fort Worth reward neighborhood-level pages; bilingual markets like Miami, San Antonio and Los Angeles reward Spanish-language content; and dense California markets reward unusually deep treatment pages."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Market type",
+        "Examples",
+        "SEO priority"
+      ],
+      "rows": [
+        [
+          "Sprawling metros",
+          "Houston, Dallas–Fort Worth, Jacksonville",
+          "One strong page per office and true service area"
+        ],
+        [
+          "Bilingual markets",
+          "Miami, San Antonio, Los Angeles",
+          "Spanish versions of key treatment pages"
+        ],
+        [
+          "High-competition markets",
+          "Los Angeles, San Francisco Bay Area, San Diego",
+          "Deeper treatment pages and provider authority"
+        ],
+        [
+          "Fast-growing suburbs",
+          "Austin, Sacramento, Tampa suburbs",
+          "Early visibility in newer neighborhoods"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "are-there-state-specific-rules-dental-seo-content-must-follow",
+      "text": "Are there state-specific rules dental SEO content must follow?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. State dental boards regulate advertising, including how dentists may describe specialties and offers. Florida, for example, requires a specific disclaimer on ads offering free or discounted exams. Have treatment and offer pages reviewed against your state board’s advertising rules."
+    },
+    {
+      "type": "h2",
+      "id": "a-step-by-step-dental-seo-plan",
+      "text": "A Step-by-Step Dental SEO Plan"
+    },
+    {
+      "type": "h3",
+      "id": "what-should-a-dental-practice-fix-first-in-its-seo",
+      "text": "What should a dental practice fix first in its SEO?"
+    },
+    {
+      "type": "answer",
+      "text": "Fix what blocks everything else: tracking, indexing and your Google Business Profile. Without call and form tracking you can’t measure results; without indexing your pages can’t rank; and without an accurate profile you lose the map pack, where most local patients start."
+    },
+    {
+      "type": "ol",
+      "items": [
+        "**Install measurement.** Set up Google Search Console, analytics with form and booking events, and call tracking by source.",
+        "**Check indexing.** Make sure every important page is indexed once, and that staging sites, duplicate city pages and thin tag pages are not.",
+        "**Correct your Google Business Profile.** Accurate name, categories, hours, services and photos.",
+        "**Rebuild your top three treatment pages.** Start with the procedures that bring the most production.",
+        "**Strengthen provider bios.** Credentials, training, memberships and a professional photo.",
+        "**Earn local links.** Sponsorships, associations, community partners and local media."
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-many-pages-does-a-dental-website-need-for-seo",
+      "text": "How many pages does a dental website need for SEO?"
+    },
+    {
+      "type": "answer",
+      "text": "Fewer than most practices think, but each must be strong. A typical practice needs a homepage, an about and team page, one page per office, one page per priority treatment, a contact and booking page, and a helpful blog that answers real patient questions. Quality beats quantity."
+    },
+    {
+      "type": "p",
+      "text": "A focused site with fifteen excellent pages usually outperforms a sprawling site with a hundred thin ones, because each strong page earns links, engagement and trust."
+    },
+    {
+      "type": "h3",
+      "id": "should-a-dental-practice-blog",
+      "text": "Should a dental practice blog?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes, if the posts answer questions your patients really ask and link to the relevant treatment pages. A blog that publishes generic dental trivia rarely helps; one that explains costs, comparisons and what to expect supports both rankings and AI citations."
+    },
+    {
+      "type": "p",
+      "text": "Strong blog topics come straight from your front desk: “Does insurance cover implants?”, “Invisalign vs braces for adults”, “What to do if a crown falls out on the weekend.” Each post should link to the matching treatment page and include a clear way to book."
+    },
+    {
+      "type": "h3",
+      "id": "what-are-the-most-common-dental-seo-mistakes",
+      "text": "What are the most common dental SEO mistakes?"
+    },
+    {
+      "type": "answer",
+      "text": "Chasing rankings for vanity keywords, publishing thin location pages, ignoring the Google Business Profile, letting the website slow down with heavy sliders and scripts, and never connecting SEO to booked appointments. Each one wastes budget that could produce patients."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Mistake",
+        "Better approach"
+      ],
+      "rows": [
+        [
+          "Ranking for “dentist [city]” only",
+          "Rank for high-value treatment searches too"
+        ],
+        [
+          "Dozens of copied city pages",
+          "A few genuinely unique location pages"
+        ],
+        [
+          "Buying links",
+          "Earning local and professional links"
+        ],
+        [
+          "Generic AI-written posts",
+          "Clinically reviewed answers to real questions"
+        ],
+        [
+          "Reporting traffic only",
+          "Reporting consultations and new patients"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-do-i-choose-a-dental-seo-agency",
+      "text": "How do I choose a dental SEO agency?"
+    },
+    {
+      "type": "answer",
+      "text": "Choose one that reports on booked patients, explains its work in plain English, keeps your website and accounts in your name, and never guarantees rankings. Ask for examples of treatment pages they’ve written and how they measure results."
+    },
+    {
+      "type": "p",
+      "text": "Questions worth asking any agency:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "How do you measure new patients from SEO?",
+        "Who writes and clinically reviews content?",
+        "Do we own the website, content and accounts?",
+        "What happens to our rankings if we leave?",
+        "How do you earn links?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Each of these questions reveals whether an agency’s incentives line up with yours: more booked patients, not more reports."
+    },
+    {
+      "type": "h2",
+      "id": "what-to-expect-and-when",
+      "text": "What to Expect, and When"
+    },
+    {
+      "type": "h3",
+      "id": "how-long-does-dental-seo-take-to-show-results",
+      "text": "How long does dental SEO take to show results?"
+    },
+    {
+      "type": "answer",
+      "text": "Technical fixes and profile improvements can show movement within weeks, but competitive treatment keywords typically take several months of consistent work. Timelines depend on your starting point, your market and how steadily you publish and improve content."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Phase",
+        "Typical timeframe",
+        "Focus"
+      ],
+      "rows": [
+        [
+          "Audit and fixes",
+          "Month 1",
+          "Technical issues, tracking, Google Business Profile"
+        ],
+        [
+          "Priority content",
+          "Months 2–3",
+          "Treatment pages for highest-value procedures"
+        ],
+        [
+          "Authority",
+          "Months 3–6",
+          "Local links, citations, supporting articles"
+        ],
+        [
+          "Expansion",
+          "Month 6+",
+          "New treatments, neighborhoods and languages"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-should-a-dental-practice-measure-seo-success",
+      "text": "How should a dental practice measure SEO success?"
+    },
+    {
+      "type": "answer",
+      "text": "Measure booked consultations and new patients from organic search, not rankings alone. Track calls, forms and online bookings by source, and review which treatment pages generate inquiries. Rankings are a leading indicator; appointments are the result that matters."
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Call tracking that separates organic search from ads",
+        "Form and booking conversions recorded in analytics",
+        "Monthly review of top treatment pages by inquiries",
+        "Quarterly comparison against the top three local competitors"
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "the-bottom-line",
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "p",
+      "text": "Dental SEO still works when it serves patients first. Fix measurement and technical health, build deep treatment pages for your highest-value procedures, keep local data accurate and earn real authority. Skip the shortcuts — template city pages, bought links and generic AI copy — and judge every effort by booked consultations."
+    },
+    {
+      "type": "callout",
+      "title": "Ready for SEO that fills your schedule?",
+      "body": [
+        "**Grow organic new-patient bookings in your city.** Alpha Dental Media builds [dental SEO](/services/dental-seo/) programs for practices across Texas, Florida and California — treatment pages, technical health, local signals and reporting tied to appointments."
+      ],
+      "cta": {
+        "label": "Book a Free Strategy Consultation →",
+        "href": "/contact/"
+      },
+      "note": "30 minutes · A clear plan you keep"
+    },
+    {
+      "type": "h2",
+      "id": "sources",
+      "text": "Sources"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Google Search Central — [AI features and your website](https://developers.google.com/search/docs/appearance/ai-features)",
+        "Google Search Central — [Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)",
+        "Google Search Central — [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies)",
+        "Google Business Profile Help — [How to improve your local ranking on Google](https://support.google.com/business/answer/7091?hl=en)",
+        "Florida Statutes — [§456.062, Advertisement of free or discounted services](https://www.flsenate.gov/Laws/Statutes/2025/456.062)"
+      ]
+    },
+    {
+      "type": "disclaimer",
+      "text": "Disclaimer: This article is for general educational purposes and is not legal or regulatory advice. Search results vary by market, competition and each practice’s circumstances, and no ranking or outcome is guaranteed. Consult your state dental board’s advertising rules and a qualified attorney before publishing promotional claims, and a qualified dental marketing professional before making significant website changes."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does SEO still work for dental practices in 2026?",
+      "a": "Yes. Patients still search for dentists, treatments and costs, and Google still ranks the pages that answer those searches best. What changed is the standard: helpful, accurate, experience-backed content and a strong local presence now matter far more than volume of pages or links."
+    },
+    {
+      "q": "What kind of content ranks best for dentists?",
+      "a": "Content that answers real patient questions completely: what a treatment involves, who it suits, cost ranges, comfort and recovery, and why your practice is qualified. Google’s guidance on helpful content rewards pages created for people first, with clear expertise and first-hand experience."
+    },
+    {
+      "q": "Is technical SEO still important for dental websites?",
+      "a": "Yes. If Google can’t crawl, render or trust your pages, content quality doesn’t matter. Fast mobile performance, secure HTTPS, clean indexing, correct structured data and accessible design form the foundation that lets everything else rank."
+    },
+    {
+      "q": "How important are local signals for dental SEO?",
+      "a": "For most practices, local signals matter most. Google says local results depend on relevance, distance and popularity, and that complete profiles and more positive reviews can help. Your Google Business Profile, reviews and location pages often drive more new-patient calls than your website’s organic rankings."
+    },
+    {
+      "q": "Do city-name landing pages still help dentists rank?",
+      "a": "Not when they’re templates. Pages that swap a city name into identical copy give patients and Google little value and can be treated as low-quality or doorway pages. Location pages work only when each one has genuinely unique, useful information about that office or service area."
+    },
+    {
+      "q": "Should a dental practice buy backlinks?",
+      "a": "No. Google’s spam policies prohibit buying links to manipulate rankings, and paid link networks carry real risk with little lasting benefit. Earn links through local sponsorships, community involvement, professional associations and content other sites genuinely want to reference."
+    },
+    {
+      "q": "Does keyword stuffing still work for dental keywords?",
+      "a": "No. Repeating “best dentist in Houston” throughout a page makes it harder to read and does not improve rankings. Write naturally, cover the topic completely, and let headings and structure signal relevance."
+    },
+    {
+      "q": "Will AI-written content rank for dental topics?",
+      "a": "AI tools can help draft, but unedited, generic AI content rarely ranks or converts for health topics. Google evaluates whether content is helpful and trustworthy regardless of how it was produced, so every treatment page should be reviewed for accuracy by a clinician and show real expertise."
+    },
+    {
+      "q": "Do dentists need special optimization for Google AI Overviews?",
+      "a": "No. Google states there are no additional requirements or special optimizations needed to appear in AI Overviews or AI Mode. Pages must be indexed and eligible to show with a snippet, and existing SEO fundamentals continue to apply."
+    },
+    {
+      "q": "How can I tell if AI search is sending patients to my practice?",
+      "a": "Google counts traffic from AI features within overall Search traffic in Search Console’s Performance report, under the “Web” search type. Pair that with call tracking and form attribution to see whether search visits turn into booked appointments."
+    },
+    {
+      "q": "How does dental SEO differ in major Texas, Florida and California metros?",
+      "a": "The fundamentals are the same, but competition and audience differ. Sprawling metros like Houston and Dallas–Fort Worth reward neighborhood-level pages; bilingual markets like Miami, San Antonio and Los Angeles reward Spanish-language content; and dense California markets reward unusually deep treatment pages."
+    },
+    {
+      "q": "Are there state-specific rules dental SEO content must follow?",
+      "a": "Yes. State dental boards regulate advertising, including how dentists may describe specialties and offers. Florida, for example, requires a specific disclaimer on ads offering free or discounted exams. Have treatment and offer pages reviewed against your state board’s advertising rules."
+    },
+    {
+      "q": "What should a dental practice fix first in its SEO?",
+      "a": "Fix what blocks everything else: tracking, indexing and your Google Business Profile. Without call and form tracking you can’t measure results; without indexing your pages can’t rank; and without an accurate profile you lose the map pack, where most local patients start."
+    },
+    {
+      "q": "How many pages does a dental website need for SEO?",
+      "a": "Fewer than most practices think, but each must be strong. A typical practice needs a homepage, an about and team page, one page per office, one page per priority treatment, a contact and booking page, and a helpful blog that answers real patient questions. Quality beats quantity."
+    },
+    {
+      "q": "Should a dental practice blog?",
+      "a": "Yes, if the posts answer questions your patients really ask and link to the relevant treatment pages. A blog that publishes generic dental trivia rarely helps; one that explains costs, comparisons and what to expect supports both rankings and AI citations."
+    },
+    {
+      "q": "What are the most common dental SEO mistakes?",
+      "a": "Chasing rankings for vanity keywords, publishing thin location pages, ignoring the Google Business Profile, letting the website slow down with heavy sliders and scripts, and never connecting SEO to booked appointments. Each one wastes budget that could produce patients."
+    },
+    {
+      "q": "How do I choose a dental SEO agency?",
+      "a": "Choose one that reports on booked patients, explains its work in plain English, keeps your website and accounts in your name, and never guarantees rankings. Ask for examples of treatment pages they’ve written and how they measure results."
+    },
+    {
+      "q": "How long does dental SEO take to show results?",
+      "a": "Technical fixes and profile improvements can show movement within weeks, but competitive treatment keywords typically take several months of consistent work. Timelines depend on your starting point, your market and how steadily you publish and improve content."
+    },
+    {
+      "q": "How should a dental practice measure SEO success?",
+      "a": "Measure booked consultations and new patients from organic search, not rankings alone. Track calls, forms and online bookings by source, and review which treatment pages generate inquiries. Rankings are a leading indicator; appointments are the result that matters."
+    }
+  ],
+  "figures": [
+    {
+      "id": "seo-works-vs-not",
+      "after": "what-no-longer-works-and-can-hurt",
+      "src": "/images/blog/dental-seo-what-still-works/seo-works-vs-not.svg",
+      "alt": "Comparison infographic of dental SEO tactics that still work in 2026 versus tactics that no longer work or can hurt rankings.",
+      "caption": "The dental SEO tactics that still produce patients focus on helpful content, accurate local data and measurement, while shortcuts like bought links and template city pages now carry risk.",
+      "width": 1200,
+      "height": 708
+    },
+    {
+      "id": "seo-plan",
+      "after": "a-step-by-step-dental-seo-plan",
+      "src": "/images/blog/dental-seo-what-still-works/seo-plan.svg",
+      "alt": "Six-step dental SEO plan infographic: measurement, indexing, Business Profile, treatment pages, provider bios and local links.",
+      "caption": "Fix measurement and indexing first, then the Business Profile, then the treatment pages that drive the most production — the order that lets each step build on the last.",
+      "width": 1200,
+      "height": 623
+    }
+  ],
+  "image": "/images/blog/dental-seo-what-still-works/featured.png",
+  "imageSvg": "/images/blog/dental-seo-what-still-works/featured.svg",
+  "imageAlt": "Dental SEO in 2026: What Still Works (and What Doesn’t) for Practices in Texas, Florida & California — Alpha Dental Media guide"
+}

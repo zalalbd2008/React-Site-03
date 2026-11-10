@@ -1,0 +1,609 @@
+{
+  "slug": "google-ads-by-procedure-value",
+  "category": "Google Ads",
+  "title": "How to Structure Dental Google Ads by Procedure Value (Texas, Florida & California Guide)",
+  "metaTitle": "Dental Google Ads by Procedure Value: Campaign Structure Guide",
+  "metaDescription": "Structure dental Google Ads by procedure value — implants, aligners, emergencies — to lower cost per new patient in Texas, Florida and California.",
+  "author": "[Author name], [Title], Alpha Dental Media",
+  "reviewer": "[Reviewer name], [credentials]",
+  "updated": "2026-11-10",
+  "time": "11 min",
+  "takeaways": [
+    "**Separate campaigns by procedure value** so high-value treatments get protected budgets and their own bids.",
+    "Every campaign should send clicks to a **matching landing page**, not your homepage.",
+    "Measure **cost per booked new patient**, not cost per click.",
+    "Google’s policies **don’t allow remarketing lists based on health interests**, so plan audiences accordingly."
+  ],
+  "content": [
+    {
+      "type": "p",
+      "text": "Most dental Google Ads accounts we audit share the same problem: one campaign, one budget and one broad keyword list covering everything from cleanings to full-arch implants. That structure lets the cheapest, most frequent searches eat the budget meant for the procedures that grow production."
+    },
+    {
+      "type": "p",
+      "text": "This guide explains how to organize campaigns by procedure value, how to measure what matters, and what changes in competitive metros across Texas, Florida and California."
+    },
+    {
+      "type": "h2",
+      "id": "why-procedure-based-structure-works",
+      "text": "Why Procedure-Based Structure Works"
+    },
+    {
+      "type": "h3",
+      "id": "why-shouldnt-a-dental-practice-run-one-dentist-campaign",
+      "text": "Why shouldn’t a dental practice run one “dentist” campaign?"
+    },
+    {
+      "type": "answer",
+      "text": "Because a single campaign lets low-value, high-volume searches consume the budget. Searches for cleanings and checkups are frequent and cheap per click, while implant or aligner searches are rarer but worth far more. One shared budget can’t protect the procedures that matter most to your production."
+    },
+    {
+      "type": "p",
+      "text": "A single campaign also blends performance data, so you can’t see which treatments are profitable and which are draining budget."
+    },
+    {
+      "type": "h3",
+      "id": "how-should-dental-google-ads-campaigns-be-structured",
+      "text": "How should dental Google Ads campaigns be structured?"
+    },
+    {
+      "type": "answer",
+      "text": "Group campaigns by procedure value and patient intent, each with its own budget, keywords, ads and landing page. A common structure separates high-value elective care, emergency care, new-patient general dentistry and branded searches."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Campaign",
+        "Example searches",
+        "Why it’s separate"
+      ],
+      "rows": [
+        [
+          "Implants and full-arch",
+          "“dental implants near me,” “all on 4 cost”",
+          "High case value, long decision cycle"
+        ],
+        [
+          "Clear aligners / orthodontics",
+          "“Invisalign for adults,” “clear braces cost”",
+          "High value, comparison-heavy shoppers"
+        ],
+        [
+          "Cosmetic",
+          "“veneers near me,” “teeth whitening dentist”",
+          "Elective, visual, offer-sensitive"
+        ],
+        [
+          "Emergency",
+          "“emergency dentist open now,” “toothache dentist”",
+          "Urgent intent, call-first, time-of-day sensitive"
+        ],
+        [
+          "New-patient general",
+          "“family dentist accepting new patients”",
+          "Volume driver for long-term patients"
+        ],
+        [
+          "Brand",
+          "Your practice name",
+          "Cheap, protects against competitors bidding on you"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-much-budget-should-go-to-each-dental-procedure-campaign",
+      "text": "How much budget should go to each dental procedure campaign?"
+    },
+    {
+      "type": "answer",
+      "text": "Allocate budget based on case value, close rate and capacity, then adjust monthly using real cost-per-new-patient data. Start by protecting the procedures with the highest production value and available chair time, and give emergency and brand campaigns enough budget to never run out early in the day."
+    },
+    {
+      "type": "p",
+      "text": "There is no universal split. A practice with an in-house oral surgeon can weight implants heavily; a family practice with open hygiene capacity may weight new-patient general campaigns."
+    },
+    {
+      "type": "h2",
+      "id": "building-campaigns-that-convert",
+      "text": "Building Campaigns That Convert"
+    },
+    {
+      "type": "h3",
+      "id": "should-dental-ads-send-traffic-to-the-homepage",
+      "text": "Should dental ads send traffic to the homepage?"
+    },
+    {
+      "type": "answer",
+      "text": "No. Each campaign should send clicks to a landing page that matches the search: implant ads to an implant page, emergency ads to an emergency page with click-to-call above the fold. Matching pages convert better and support ad relevance."
+    },
+    {
+      "type": "p",
+      "text": "A strong procedure landing page includes:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "A headline matching the search (“Dental Implants in [Neighborhood]”)",
+        "Click-to-call and online booking visible on mobile without scrolling",
+        "Cost ranges or financing options, stated honestly",
+        "Provider credentials and real patient reviews",
+        "A short, simple form that does not ask for health details"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "which-keywords-and-match-types-work-best-for-dentists",
+      "text": "Which keywords and match types work best for dentists?"
+    },
+    {
+      "type": "answer",
+      "text": "Use tightly themed keyword groups per procedure and add negative keywords aggressively. Exclude job seekers, schools, DIY and unrelated searches such as “dental assistant jobs,” “free dental clinic” (if you don’t offer it) or “dental school.”"
+    },
+    {
+      "type": "p",
+      "text": "Common negative keyword themes for dental accounts:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Jobs and careers (jobs, hiring, salary, school, course)",
+        "DIY and products (kit, at home, buy, Amazon)",
+        "Out-of-area cities you don’t serve",
+        "Services you don’t offer",
+        "Veterinary and unrelated “dental” searches"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "can-dentists-use-remarketing-in-google-ads",
+      "text": "Can dentists use remarketing in Google Ads?"
+    },
+    {
+      "type": "answer",
+      "text": "Not with your own health-based audience lists. Google’s personalized advertising policy treats health as a sensitive category, so advertisers promoting health services can’t use advertiser-curated audiences such as their own remarketing lists. Google’s predefined audience segments, like in-market segments, can still be used."
+    },
+    {
+      "type": "p",
+      "text": "Plan for that limit: rely on strong search campaigns, location targeting and good landing pages rather than following past visitors around the web."
+    },
+    {
+      "type": "callout",
+      "title": "Is your ad budget going to cleanings instead of implants?",
+      "body": [
+        "**Get a free Google Ads audit for your practice.** We’ll show where your budget goes by procedure, which searches are wasting money, and what your cost per new patient really is."
+      ],
+      "cta": {
+        "label": "Get My Free Ads Audit →",
+        "href": "/free-audit/"
+      },
+      "note": "No contracts · Reviewed by a dental PPC specialist"
+    },
+    {
+      "type": "h2",
+      "id": "measuring-what-matters",
+      "text": "Measuring What Matters"
+    },
+    {
+      "type": "h3",
+      "id": "what-should-dentists-measure-in-google-ads",
+      "text": "What should dentists measure in Google Ads?"
+    },
+    {
+      "type": "answer",
+      "text": "Measure cost per booked new patient by procedure. Clicks and cost per click are inputs; the outputs that matter are calls answered, appointments booked and treatment accepted. Without call tracking and booking attribution, you can’t tell which campaigns are profitable."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Metric",
+        "What it tells you",
+        "Watch for"
+      ],
+      "rows": [
+        [
+          "Cost per click",
+          "Competition level",
+          "Rising costs in dense metros"
+        ],
+        [
+          "Conversion rate",
+          "Landing page and offer strength",
+          "Mobile underperforming desktop"
+        ],
+        [
+          "Cost per lead",
+          "Efficiency of calls and forms",
+          "Spam and wrong-number calls inflating leads"
+        ],
+        [
+          "Cost per booked new patient",
+          "True campaign value",
+          "Leads that never book"
+        ],
+        [
+          "Production per campaign",
+          "Return on ad spend",
+          "High-volume, low-value campaigns"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-do-i-track-phone-calls-from-dental-google-ads",
+      "text": "How do I track phone calls from dental Google Ads?"
+    },
+    {
+      "type": "answer",
+      "text": "Use Google Ads call conversions plus a call tracking platform that assigns tracking numbers by campaign. Record which calls become booked appointments. Check state call-recording consent laws first: California and Florida require all parties’ consent, while Texas generally requires only one party."
+    },
+    {
+      "type": "p",
+      "text": "See [Call Tracking for Dentists](/blog/call-tracking-for-dentists/) for setup details and HIPAA considerations."
+    },
+    {
+      "type": "h2",
+      "id": "google-ads-in-texas-florida-and-california",
+      "text": "Google Ads in Texas, Florida and California"
+    },
+    {
+      "type": "h3",
+      "id": "how-should-dentists-in-big-metros-handle-location-targeting",
+      "text": "How should dentists in big metros handle location targeting?"
+    },
+    {
+      "type": "answer",
+      "text": "Target the realistic radius patients will travel to your office, not the whole metro. In sprawling markets like Houston, Dallas–Fort Worth and Los Angeles, citywide targeting spends money on people who will never drive to you. Use radius or ZIP targeting around each office and compare performance by area."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Texas:** Houston and Dallas–Fort Worth reward tight radius targeting; San Antonio and Houston benefit from Spanish-language ad groups.",
+        "**Florida:** Miami campaigns often need Spanish ads and landing pages; Orlando and Tampa may see visitor-driven emergency searches. Ads promoting free or discounted exams must include Florida’s required disclaimer.",
+        "**California:** Los Angeles, the Bay Area and San Diego are among the most expensive dental markets, so negative keywords, schedules and landing-page conversion rates matter even more."
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "should-dentists-use-local-services-ads-as-well-as-search-ads",
+      "text": "Should dentists use Local Services Ads as well as search ads?"
+    },
+    {
+      "type": "answer",
+      "text": "They can complement each other. Local Services Ads appear at the top of some local searches and charge per lead, while search campaigns give more control over procedures, keywords and landing pages. Test both and compare cost per booked new patient."
+    },
+    {
+      "type": "h2",
+      "id": "ad-copy-budgets-and-common-mistakes",
+      "text": "Ad Copy, Budgets and Common Mistakes"
+    },
+    {
+      "type": "h3",
+      "id": "what-should-dental-ad-copy-include",
+      "text": "What should dental ad copy include?"
+    },
+    {
+      "type": "answer",
+      "text": "Ad copy should mirror the search, name the procedure and location, give a reason to choose you, and make the next step obvious. Use assets for call buttons, locations, financing and reviews where eligible, and keep every claim accurate and compliant with your state board."
+    },
+    {
+      "type": "p",
+      "text": "A strong implant ad might include:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Headline:** “Dental Implants in Sugar Land” or “Same-Week Implant Consultations”",
+        "**Proof:** credentials, technology or financing availability",
+        "**Call to action:** “Book Your Implant Consultation”",
+        "**Assets:** call button, location, sitelinks to cost and financing pages"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Avoid vague ads such as “Best Dentist in Town” that don’t answer the searcher’s question or differentiate your practice."
+    },
+    {
+      "type": "h3",
+      "id": "how-much-should-a-dental-practice-spend-on-google-ads",
+      "text": "How much should a dental practice spend on Google Ads?"
+    },
+    {
+      "type": "answer",
+      "text": "Start from the number of new patients you want and your realistic cost per booked patient, then work backward to a monthly budget. Begin with enough budget to gather meaningful data in your priority campaigns rather than spreading a small budget across every procedure."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Planning step",
+        "Question to answer"
+      ],
+      "rows": [
+        [
+          "Goal",
+          "How many new patients per month, by procedure?"
+        ],
+        [
+          "Capacity",
+          "Do you have chair time and staff to handle them?"
+        ],
+        [
+          "Value",
+          "What is a new patient or case worth to the practice?"
+        ],
+        [
+          "Cost",
+          "What is your current or expected cost per booked patient?"
+        ],
+        [
+          "Budget",
+          "Goal × cost per booked patient, adjusted monthly"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "when-should-dental-ads-run",
+      "text": "When should dental ads run?"
+    },
+    {
+      "type": "answer",
+      "text": "Run ads when you can answer the phone or offer online booking. Emergency campaigns may justify early-morning, evening and weekend schedules; elective procedure campaigns often perform best during business hours when the front desk can book immediately."
+    },
+    {
+      "type": "p",
+      "text": "Review performance by hour and day after the first month, then reduce bids or pause ads during hours that produce calls nobody answers."
+    },
+    {
+      "type": "h3",
+      "id": "what-are-the-most-common-dental-google-ads-mistakes",
+      "text": "What are the most common dental Google Ads mistakes?"
+    },
+    {
+      "type": "answer",
+      "text": "Sending all traffic to the homepage, running broad keywords without negatives, counting every call as a conversion, targeting a whole metro, and ignoring missed calls. Each inflates cost per new patient without adding production."
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Every campaign has a matching landing page",
+        "Negative keyword lists are reviewed weekly at first",
+        "Conversions reflect qualified calls or bookings",
+        "Location targeting matches realistic travel distance",
+        "Missed calls are reviewed and returned quickly"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "should-dentists-bid-on-competitors-names",
+      "text": "Should dentists bid on competitors’ names?"
+    },
+    {
+      "type": "answer",
+      "text": "It’s allowed to bid on competitor names as keywords in many cases, but Google may restrict use of their trademarked names in ad text, and these clicks often convert poorly and cost more. Protecting your own brand name is usually a better use of budget."
+    },
+    {
+      "type": "h3",
+      "id": "should-dental-ads-mention-financing",
+      "text": "Should dental ads mention financing?"
+    },
+    {
+      "type": "answer",
+      "text": "For high-value procedures, yes — cost is often the biggest barrier. Mentioning financing availability, payment plans or insurance acceptance in ads and on landing pages can lift conversion, as long as every statement is accurate and offers follow your state’s advertising rules."
+    },
+    {
+      "type": "p",
+      "text": "Link financing ads to a page that explains options clearly, with a simple way to start a consultation."
+    },
+    {
+      "type": "p",
+      "text": "Review financing claims with your lender or financing partner as well, since many programs have their own advertising requirements."
+    },
+    {
+      "type": "h3",
+      "id": "how-should-dental-ads-be-reviewed-each-month",
+      "text": "How should dental ads be reviewed each month?"
+    },
+    {
+      "type": "answer",
+      "text": "Review search terms, cost per booked new patient by campaign, missed calls, landing-page conversion rates and budget pacing. Then shift budget toward the procedures and areas producing booked patients at the lowest cost, and fix or pause what isn’t working."
+    },
+    {
+      "type": "p",
+      "text": "A monthly review agenda:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "New negative keywords from the search terms report",
+        "Cost per booked new patient by procedure campaign",
+        "Missed calls and calls that didn’t book",
+        "Landing pages with falling conversion rates",
+        "Budget reallocation for next month"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bring the front desk into the review. They hear which ads patients mention, which offers confuse callers and which procedures people actually book — context the Google Ads dashboard can’t show."
+    },
+    {
+      "type": "h2",
+      "id": "what-to-expect",
+      "text": "What to Expect"
+    },
+    {
+      "type": "h3",
+      "id": "how-long-until-dental-google-ads-are-profitable",
+      "text": "How long until dental Google Ads are profitable?"
+    },
+    {
+      "type": "answer",
+      "text": "Campaigns can generate calls within days of launch, but expect several weeks of data before optimizing confidently, and one to three months to establish a reliable cost per new patient by procedure."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Phase",
+        "Timeframe",
+        "Focus"
+      ],
+      "rows": [
+        [
+          "Build",
+          "Week 1",
+          "Campaign structure, tracking, landing pages"
+        ],
+        [
+          "Learn",
+          "Weeks 2–6",
+          "Search terms, negatives, bids, call quality"
+        ],
+        [
+          "Optimize",
+          "Months 2–3",
+          "Shift budget toward lowest cost per booked patient"
+        ],
+        [
+          "Scale",
+          "Month 3+",
+          "Expand profitable procedures and areas"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "the-bottom-line",
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "p",
+      "text": "Organizing dental Google Ads by procedure value protects budget for the treatments that grow production, sends every click to a matching page and makes cost per booked patient visible. Pair that structure with call tracking, tight location targeting and monthly reviews, and your ad spend becomes an investment you can measure and steer."
+    },
+    {
+      "type": "callout",
+      "title": "Ready to lower your cost per new patient?",
+      "body": [
+        "**Ads organized around the procedures that grow your practice.** Alpha Dental Media manages dental Google Ads across Texas, Florida and California with procedure-level campaigns, call tracking and reporting tied to booked patients."
+      ],
+      "cta": {
+        "label": "Book a Free Strategy Consultation →",
+        "href": "/contact/"
+      },
+      "note": "30 minutes · A clear plan you keep"
+    },
+    {
+      "type": "h2",
+      "id": "sources",
+      "text": "Sources"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Google Advertising Policies — [Personalized advertising](https://support.google.com/adspolicy/answer/143465?hl=en)",
+        "Florida Statutes — [§456.062, Advertisement of free or discounted services](https://www.flsenate.gov/Laws/Statutes/2025/456.062)",
+        "Reporters Committee for Freedom of the Press — [Reporter’s Recording Guide (state consent laws)](https://www.rcfp.org/reporters-recording-guide/)"
+      ]
+    },
+    {
+      "type": "disclaimer",
+      "text": "Disclaimer: This article is for general educational purposes and is not legal or financial advice. Advertising costs and results vary by market, competition and practice, and no outcome is guaranteed. Review ads and offers against Google’s policies, your state dental board’s advertising rules and applicable recording and privacy laws with qualified counsel."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why shouldn’t a dental practice run one “dentist” campaign?",
+      "a": "Because a single campaign lets low-value, high-volume searches consume the budget. Searches for cleanings and checkups are frequent and cheap per click, while implant or aligner searches are rarer but worth far more. One shared budget can’t protect the procedures that matter most to your production."
+    },
+    {
+      "q": "How should dental Google Ads campaigns be structured?",
+      "a": "Group campaigns by procedure value and patient intent, each with its own budget, keywords, ads and landing page. A common structure separates high-value elective care, emergency care, new-patient general dentistry and branded searches."
+    },
+    {
+      "q": "How much budget should go to each dental procedure campaign?",
+      "a": "Allocate budget based on case value, close rate and capacity, then adjust monthly using real cost-per-new-patient data. Start by protecting the procedures with the highest production value and available chair time, and give emergency and brand campaigns enough budget to never run out early in the day."
+    },
+    {
+      "q": "Should dental ads send traffic to the homepage?",
+      "a": "No. Each campaign should send clicks to a landing page that matches the search: implant ads to an implant page, emergency ads to an emergency page with click-to-call above the fold. Matching pages convert better and support ad relevance."
+    },
+    {
+      "q": "Which keywords and match types work best for dentists?",
+      "a": "Use tightly themed keyword groups per procedure and add negative keywords aggressively. Exclude job seekers, schools, DIY and unrelated searches such as “dental assistant jobs,” “free dental clinic” (if you don’t offer it) or “dental school.”"
+    },
+    {
+      "q": "Can dentists use remarketing in Google Ads?",
+      "a": "Not with your own health-based audience lists. Google’s personalized advertising policy treats health as a sensitive category, so advertisers promoting health services can’t use advertiser-curated audiences such as their own remarketing lists. Google’s predefined audience segments, like in-market segments, can still be used."
+    },
+    {
+      "q": "What should dentists measure in Google Ads?",
+      "a": "Measure cost per booked new patient by procedure. Clicks and cost per click are inputs; the outputs that matter are calls answered, appointments booked and treatment accepted. Without call tracking and booking attribution, you can’t tell which campaigns are profitable."
+    },
+    {
+      "q": "How do I track phone calls from dental Google Ads?",
+      "a": "Use Google Ads call conversions plus a call tracking platform that assigns tracking numbers by campaign. Record which calls become booked appointments. Check state call-recording consent laws first: California and Florida require all parties’ consent, while Texas generally requires only one party."
+    },
+    {
+      "q": "How should dentists in big metros handle location targeting?",
+      "a": "Target the realistic radius patients will travel to your office, not the whole metro. In sprawling markets like Houston, Dallas–Fort Worth and Los Angeles, citywide targeting spends money on people who will never drive to you. Use radius or ZIP targeting around each office and compare performance by area."
+    },
+    {
+      "q": "Should dentists use Local Services Ads as well as search ads?",
+      "a": "They can complement each other. Local Services Ads appear at the top of some local searches and charge per lead, while search campaigns give more control over procedures, keywords and landing pages. Test both and compare cost per booked new patient."
+    },
+    {
+      "q": "What should dental ad copy include?",
+      "a": "Ad copy should mirror the search, name the procedure and location, give a reason to choose you, and make the next step obvious. Use assets for call buttons, locations, financing and reviews where eligible, and keep every claim accurate and compliant with your state board."
+    },
+    {
+      "q": "How much should a dental practice spend on Google Ads?",
+      "a": "Start from the number of new patients you want and your realistic cost per booked patient, then work backward to a monthly budget. Begin with enough budget to gather meaningful data in your priority campaigns rather than spreading a small budget across every procedure."
+    },
+    {
+      "q": "When should dental ads run?",
+      "a": "Run ads when you can answer the phone or offer online booking. Emergency campaigns may justify early-morning, evening and weekend schedules; elective procedure campaigns often perform best during business hours when the front desk can book immediately."
+    },
+    {
+      "q": "What are the most common dental Google Ads mistakes?",
+      "a": "Sending all traffic to the homepage, running broad keywords without negatives, counting every call as a conversion, targeting a whole metro, and ignoring missed calls. Each inflates cost per new patient without adding production."
+    },
+    {
+      "q": "Should dentists bid on competitors’ names?",
+      "a": "It’s allowed to bid on competitor names as keywords in many cases, but Google may restrict use of their trademarked names in ad text, and these clicks often convert poorly and cost more. Protecting your own brand name is usually a better use of budget."
+    },
+    {
+      "q": "Should dental ads mention financing?",
+      "a": "For high-value procedures, yes — cost is often the biggest barrier. Mentioning financing availability, payment plans or insurance acceptance in ads and on landing pages can lift conversion, as long as every statement is accurate and offers follow your state’s advertising rules."
+    },
+    {
+      "q": "How should dental ads be reviewed each month?",
+      "a": "Review search terms, cost per booked new patient by campaign, missed calls, landing-page conversion rates and budget pacing. Then shift budget toward the procedures and areas producing booked patients at the lowest cost, and fix or pause what isn’t working."
+    },
+    {
+      "q": "How long until dental Google Ads are profitable?",
+      "a": "Campaigns can generate calls within days of launch, but expect several weeks of data before optimizing confidently, and one to three months to establish a reliable cost per new patient by procedure."
+    }
+  ],
+  "figures": [
+    {
+      "id": "campaign-structure",
+      "after": "why-procedure-based-structure-works",
+      "src": "/images/blog/google-ads-by-procedure-value/campaign-structure.svg",
+      "alt": "Infographic of six dental Google Ads campaigns organized by procedure value: implants, aligners, cosmetic, emergency, new-patient general and brand.",
+      "caption": "Separating campaigns by procedure value gives implants and aligners protected budgets, keeps emergency ads on a call schedule, and makes each campaign’s cost per new patient visible.",
+      "width": 1200,
+      "height": 564
+    },
+    {
+      "id": "measurement-funnel",
+      "after": "measuring-what-matters",
+      "src": "/images/blog/google-ads-by-procedure-value/measurement-funnel.svg",
+      "alt": "Funnel infographic showing dental Google Ads measurement from click to call, answered call, booked appointment and production.",
+      "caption": "Clicks and leads are inputs. Dental practices should judge Google Ads by cost per booked new patient and the production each procedure campaign generates.",
+      "width": 1200,
+      "height": 478
+    }
+  ],
+  "image": "/images/blog/google-ads-by-procedure-value/featured.png",
+  "imageSvg": "/images/blog/google-ads-by-procedure-value/featured.svg",
+  "imageAlt": "How to Structure Dental Google Ads by Procedure Value (Texas, Florida & California Guide) — Alpha Dental Media guide"
+}

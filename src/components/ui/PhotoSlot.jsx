@@ -1,3 +1,4 @@
+import { siteImageFor } from '../../data/siteImages.js';
 import './PhotoSlot.css';
 
 /**
@@ -9,12 +10,27 @@ import './PhotoSlot.css';
  *   - `sources`: [{ type: 'image/avif', srcSet: '...' }, { type: 'image/webp', srcSet: '...' }]
  *   - width/height are required to reserve space and prevent layout shift (CLS)
  *   - below-the-fold images lazy-load; pass priority for the LCP/hero image.
+ * Without `src`, the slot's label is looked up in data/siteImages.js (brand infographics with
+ * real text and descriptive alt text). Only slots with no registered image show the placeholder.
  */
 export default function PhotoSlot({
   label, tag, cap, className = '', style, ratio,
   src, sources = [], srcSet, sizes, width, height, priority = false, children,
 }) {
   const s = { ...(ratio ? { aspectRatio: ratio } : null), ...style };
+  const reg = src ? null : siteImageFor(label);
+  if (reg) {
+    return (
+      <picture className={`photo ${className}`.trim()} style={s}>
+        <img
+          src={reg.src} alt={reg.alt} width={reg.width} height={reg.height}
+          loading={priority || reg.priority ? 'eager' : 'lazy'} decoding="async"
+          fetchPriority={priority || reg.priority ? 'high' : undefined}
+          style={reg.position ? { objectPosition: reg.position } : undefined}
+        />
+      </picture>
+    );
+  }
 
   if (src) {
     return (

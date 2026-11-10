@@ -107,3 +107,45 @@
   .art-draft__notice { padding: 24px; }
   .art-related { padding: 64px var(--gutter); }
 }
+
+/* ---- Full articles (src/data/articles/*.json) ---- */
+.art-prose > h2 { scroll-margin-top: calc(var(--header-h) + 24px); }
+.art-prose > h3 { scroll-margin-top: calc(var(--header-h) + 24px); }
+.art-answer {
+  font-size: 18px; line-height: 30px; font-weight: 600; color: var(--c-navy);
+  background: var(--c-warm-tint); border-left: 4px solid var(--c-cta); border-radius: 0 var(--r-card) var(--r-card) 0;
+  padding: 18px 22px; margin: 0 0 20px;
+}
+.art-label { font-weight: 700; color: var(--c-navy); margin: 0 0 12px; }
+.art-prose > blockquote, .art-quote { margin: 0 0 24px; padding: 16px 22px; border-left: 4px solid var(--c-teal); background: var(--c-alt); border-radius: 0 var(--r-card) var(--r-card) 0; font-size: 17px; line-height: 28px; color: var(--c-navy); }
+.art-checklist { list-style: none; padding: 0 !important; margin: 0 0 24px; display: flex; flex-direction: column; gap: 10px; font-size: 17px; line-height: 27px; }
+.art-checklist li { display: flex; gap: 12px; align-items: flex-start; margin: 0; }
+.art-checklist svg { flex: 0 0 auto; margin-top: 4px; }
+.art-table th[scope="row"] { font-weight: 600; color: var(--c-navy); border-top: 1px solid var(--c-border); vertical-align: top; }
+.art-table td { vertical-align: top; }
+.art-table td:first-child { color: var(--c-navy); }
+.art-fig { margin: 8px 0 32px; }
+.art-fig img { display: block; width: 100%; height: auto; border-radius: var(--r-card); border: 1px solid var(--c-border); background: #fff; }
+.art-fig figcaption { font-size: 15px; line-height: 24px; color: var(--c-muted); margin-top: 10px; }
+.art-callout {
+  background: var(--c-navy); color: var(--c-on-dark, #C9D3E0); border-radius: var(--r-card);
+  padding: 28px; margin: 12px 0 32px; display: flex; flex-direction: column; gap: 10px;
+  border-top: 4px solid var(--c-cta);
+}
+.art-callout__title { font-family: var(--f-head); font-size: 22px; line-height: 30px; color: #fff; }
+.art-callout p { margin: 0; font-size: 16px; line-height: 26px; }
+.art-callout p strong { color: #fff; }
+.art-callout__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 18px; margin-top: 8px; }
+.art-callout__note { font-size: 14px; color: #9FB0C6; }
+.art-disclaimer { font-size: 14px !important; line-height: 23px !important; color: var(--c-muted); background: var(--c-alt); border-radius: var(--r-card); padding: 16px 20px; }
+.art-prose a:not(.btn) { color: var(--c-cta); text-decoration: underline; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.art-prose code { background: var(--c-warm-tint); color: var(--c-cta); padding: 1px 6px; border-radius: 4px; font-size: .9em; }
+@media (max-width: 600px) {
+  .art-callout { padding: 22px; }
+  .art-answer { font-size: 17px; line-height: 28px; padding: 16px 18px; }
+}
+.art-takeaways li strong { display: inline; font: inherit; font-weight: 700; color: var(--c-navy); margin: 0; }
+/* Long guides: on narrow screens the sticky TOC would stack above the article, so start with the content. */
+@media (max-width: 1023px) {
+  .art-toc { display: none; }
+}

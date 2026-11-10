@@ -1,0 +1,634 @@
+{
+  "slug": "call-tracking-for-dentists",
+  "category": "Google Ads",
+  "title": "Call Tracking for Dentists: Setup, Recording Laws and What to Measure",
+  "metaTitle": "Call Tracking for Dentists: Setup, Laws & What to Measure",
+  "metaDescription": "How dental practices set up call tracking, which metrics matter, HIPAA vendor rules, and call-recording consent laws in Texas, Florida and California.",
+  "author": "[Author name], [Title], Alpha Dental Media",
+  "reviewer": "[Reviewer name], [credentials]",
+  "updated": "2026-11-10",
+  "time": "11 min",
+  "takeaways": [
+    "Call tracking assigns **unique numbers by source** so you know which channel produced each call.",
+    "Measure **answered, booked and new-patient calls**, not just call volume.",
+    "Vendors that record or store calls with patient information generally need a **Business Associate Agreement**.",
+    "**California and Florida require all-party consent** to record calls; Texas generally requires one party."
+  ],
+  "content": [
+    {
+      "type": "p",
+      "text": "For most dental practices, the phone is still where new patients become appointments. Yet many practices spend thousands on SEO and ads without knowing which channel made the phone ring — or whether those calls were answered and booked. Call tracking closes that gap."
+    },
+    {
+      "type": "p",
+      "text": "This guide covers how call tracking works, how to set it up without hurting local SEO, which numbers to watch, and the HIPAA and call-recording rules that apply in Texas, Florida and California."
+    },
+    {
+      "type": "h2",
+      "id": "how-call-tracking-works",
+      "text": "How Call Tracking Works"
+    },
+    {
+      "type": "h3",
+      "id": "what-is-call-tracking-for-dental-practices",
+      "text": "What is call tracking for dental practices?"
+    },
+    {
+      "type": "answer",
+      "text": "Call tracking uses unique phone numbers for each marketing source — Google Ads, organic search, Google Business Profile, social, print — and forwards them to your office. Each call is logged by source, so you can see which marketing produces calls, how many are answered and which become appointments."
+    },
+    {
+      "type": "h3",
+      "id": "what-is-dynamic-number-insertion",
+      "text": "What is dynamic number insertion?"
+    },
+    {
+      "type": "answer",
+      "text": "Dynamic number insertion shows a different tracking number on your website depending on how the visitor arrived — for example, one number for paid search visitors and another for organic visitors. It lets you attribute website calls to their source without changing your main number everywhere."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Tracking method",
+        "Where it’s used",
+        "What it tells you"
+      ],
+      "rows": [
+        [
+          "Static tracking number",
+          "Print, billboards, Google Business Profile",
+          "Calls from that specific placement"
+        ],
+        [
+          "Dynamic number insertion",
+          "Your website",
+          "Calls by visitor source (ads, organic, social)"
+        ],
+        [
+          "Google Ads call extensions",
+          "Search ads",
+          "Calls directly from ads"
+        ],
+        [
+          "Call-to-booking matching",
+          "Practice management system",
+          "Which calls became appointments"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "will-call-tracking-numbers-hurt-my-local-seo",
+      "text": "Will call tracking numbers hurt my local SEO?"
+    },
+    {
+      "type": "answer",
+      "text": "Not when set up carefully. Keep your main number consistent across directories, use dynamic number insertion on your website so the main number remains in your page code, and follow Google Business Profile guidelines for any tracking number you add there."
+    },
+    {
+      "type": "p",
+      "text": "Many practices use a dedicated tracking number on their Google Business Profile and list their main number as an additional phone. Check Google’s current guidelines before changing the profile number."
+    },
+    {
+      "type": "h2",
+      "id": "what-to-measure",
+      "text": "What to Measure"
+    },
+    {
+      "type": "h3",
+      "id": "which-call-metrics-matter-most-for-dentists",
+      "text": "Which call metrics matter most for dentists?"
+    },
+    {
+      "type": "answer",
+      "text": "Focus on calls answered, calls that were new patients, calls that booked an appointment, and cost per booked new patient by channel. Total call volume alone hides missed calls, existing-patient calls and spam."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Metric",
+        "Why it matters",
+        "Healthy practice habit"
+      ],
+      "rows": [
+        [
+          "Missed-call rate",
+          "Every unanswered new-patient call is lost revenue",
+          "Review missed calls daily and call back fast"
+        ],
+        [
+          "New-patient calls",
+          "Separates growth from routine scheduling",
+          "Tag calls as new or existing"
+        ],
+        [
+          "Booking rate",
+          "Shows front-desk conversion",
+          "Coach on calls that didn’t book"
+        ],
+        [
+          "After-hours calls",
+          "Reveals demand outside office hours",
+          "Consider an answering service or online booking"
+        ],
+        [
+          "Cost per booked new patient",
+          "True channel value",
+          "Compare across ads, SEO and social"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-do-i-know-if-front-desk-calls-are-converting",
+      "text": "How do I know if front-desk calls are converting?"
+    },
+    {
+      "type": "answer",
+      "text": "Review a sample of calls each week against outcomes: was the call answered, did the caller book, and if not, why? Common causes of lost bookings include long holds, no next available appointment offered, and insurance questions without a clear answer."
+    },
+    {
+      "type": "p",
+      "text": "Weekly call review checklist:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Missed calls returned within the hour during business hours",
+        "New-patient callers offered a specific appointment time",
+        "Insurance questions answered or a callback scheduled",
+        "Every call outcome logged (booked, not booked, reason)"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-should-call-data-connect-to-google-ads",
+      "text": "How should call data connect to Google Ads?"
+    },
+    {
+      "type": "answer",
+      "text": "Import booked-appointment outcomes or qualified calls as conversions so Google Ads optimizes toward patients rather than any call. Counting every short or spam call as a conversion trains campaigns toward the wrong results."
+    },
+    {
+      "type": "callout",
+      "title": "Do you know which marketing makes your phone ring?",
+      "body": [
+        "**Get a free call-tracking and attribution audit.** We’ll show which channels produce new-patient calls, how many go unanswered and what your real cost per booked patient is."
+      ],
+      "cta": {
+        "label": "Get My Free Tracking Audit →",
+        "href": "/free-audit/"
+      },
+      "note": "No contracts · Reviewed by a dental marketing strategist"
+    },
+    {
+      "type": "h2",
+      "id": "hipaa-and-recording-laws",
+      "text": "HIPAA and Recording Laws"
+    },
+    {
+      "type": "h3",
+      "id": "does-a-call-tracking-vendor-need-a-business-associate-agreement",
+      "text": "Does a call tracking vendor need a Business Associate Agreement?"
+    },
+    {
+      "type": "answer",
+      "text": "Generally, yes, if the vendor creates, receives, stores or transmits protected health information on your behalf — for example, by recording calls in which patients discuss their care. Choose a vendor that will sign a Business Associate Agreement and supports appropriate security controls."
+    },
+    {
+      "type": "h3",
+      "id": "is-it-legal-for-a-dental-office-to-record-phone-calls",
+      "text": "Is it legal for a dental office to record phone calls?"
+    },
+    {
+      "type": "answer",
+      "text": "It depends on the state and the parties on the call. California and Florida generally require the consent of all parties, while Texas generally requires the consent of one party. A clear recorded notice at the start of every call is the simplest way to stay compliant everywhere."
+    },
+    {
+      "type": "table",
+      "head": [
+        "State",
+        "General recording consent rule",
+        "Practical step"
+      ],
+      "rows": [
+        [
+          "California",
+          "All-party consent",
+          "Play a recording notice on every call"
+        ],
+        [
+          "Florida",
+          "All-party consent",
+          "Play a recording notice on every call"
+        ],
+        [
+          "Texas",
+          "One-party consent",
+          "A notice is still recommended for transparency"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Callers can be in a different state from your office, so most multi-state practices use a recording notice on every call."
+    },
+    {
+      "type": "h3",
+      "id": "does-website-tracking-raise-hipaa-concerns-for-dentists",
+      "text": "Does website tracking raise HIPAA concerns for dentists?"
+    },
+    {
+      "type": "answer",
+      "text": "It can. In 2024 a federal court in Texas vacated part of HHS’s guidance on online tracking technologies covering unauthenticated public pages, but tracking on pages where patients share health information — such as appointment requests or patient portals — still raises HIPAA concerns. California dentists have also received demand letters over website pixels."
+    },
+    {
+      "type": "h2",
+      "id": "call-tracking-in-texas-florida-and-california",
+      "text": "Call Tracking in Texas, Florida and California"
+    },
+    {
+      "type": "h3",
+      "id": "how-should-multi-location-practices-track-calls-in-big-metros",
+      "text": "How should multi-location practices track calls in big metros?"
+    },
+    {
+      "type": "answer",
+      "text": "Give each office its own tracking numbers by channel so you can compare locations. In large metros like Houston, Dallas–Fort Worth, Los Angeles and Miami, call data often shows that some neighborhoods or campaigns produce far better patients than others, guiding where to spend."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Market",
+        "What call data often reveals"
+      ],
+      "rows": [
+        [
+          "Houston, Dallas–Fort Worth",
+          "Which suburbs and offices produce booked patients"
+        ],
+        [
+          "Miami, San Antonio, Los Angeles",
+          "Demand for Spanish-speaking staff on the phones"
+        ],
+        [
+          "Orlando, Tampa",
+          "After-hours and emergency call volume"
+        ],
+        [
+          "Bay Area, San Diego, Sacramento",
+          "Which high-cost campaigns justify their spend"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "choosing-and-running-a-call-tracking-system",
+      "text": "Choosing and Running a Call Tracking System"
+    },
+    {
+      "type": "h3",
+      "id": "how-should-a-dental-practice-choose-a-call-tracking-provider",
+      "text": "How should a dental practice choose a call tracking provider?"
+    },
+    {
+      "type": "answer",
+      "text": "Choose a provider that signs a Business Associate Agreement, supports dynamic number insertion, integrates with Google Ads and analytics, offers recording notices and secure storage, and lets you tag call outcomes. Ease of use for your front desk matters as much as features."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Feature",
+        "Why dental practices need it"
+      ],
+      "rows": [
+        [
+          "Business Associate Agreement",
+          "Protects patient information on recorded calls"
+        ],
+        [
+          "Dynamic number insertion",
+          "Attributes website calls by source"
+        ],
+        [
+          "Google Ads integration",
+          "Sends qualified calls as conversions"
+        ],
+        [
+          "Recording notice",
+          "Supports consent laws in all-party states"
+        ],
+        [
+          "Outcome tagging",
+          "Shows which calls booked"
+        ],
+        [
+          "Multi-location reporting",
+          "Compares offices fairly"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "should-dental-practices-record-every-call",
+      "text": "Should dental practices record every call?"
+    },
+    {
+      "type": "answer",
+      "text": "Recording helps with training and quality, but it creates privacy obligations. If you record, play a clear notice, limit access to recordings, set retention periods and make sure your vendor signs a Business Associate Agreement. Some practices record only marketing lines rather than every call."
+    },
+    {
+      "type": "h3",
+      "id": "how-can-call-data-improve-front-desk-performance",
+      "text": "How can call data improve front-desk performance?"
+    },
+    {
+      "type": "answer",
+      "text": "Use real calls for coaching. Review missed calls, calls that didn’t book and calls with long holds, then train on the patterns: answering quickly, offering a specific appointment time, handling insurance questions and capturing contact details for follow-up."
+    },
+    {
+      "type": "p",
+      "text": "A simple booking script outline:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Greet warmly and ask how you can help",
+        "Ask whether they’re a new or existing patient",
+        "Offer two specific appointment times",
+        "Answer insurance questions or schedule a callback",
+        "Confirm details and send a confirmation"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-call-tracking-mistakes-should-practices-avoid",
+      "text": "What call tracking mistakes should practices avoid?"
+    },
+    {
+      "type": "answer",
+      "text": "Using tracking numbers inconsistently across directories, counting every call as a lead, recording without notice, using a vendor without a Business Associate Agreement and never reviewing outcomes. Each one either hurts local SEO, misleads reporting or creates legal risk."
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Main number consistent in directories and page code",
+        "Only qualified calls counted as conversions",
+        "Recording notice on every recorded line",
+        "Business Associate Agreement signed",
+        "Weekly review of missed and unbooked calls"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-should-after-hours-calls-be-handled",
+      "text": "How should after-hours calls be handled?"
+    },
+    {
+      "type": "answer",
+      "text": "After-hours calls often include urgent new-patient needs. Use an answering service or clear voicemail with next-morning callbacks, offer online booking, and route genuine emergencies according to your practice’s protocols. Track after-hours volume to decide whether extended hours are worth testing."
+    },
+    {
+      "type": "h3",
+      "id": "how-do-call-tracking-and-form-tracking-work-together",
+      "text": "How do call tracking and form tracking work together?"
+    },
+    {
+      "type": "answer",
+      "text": "Patients contact practices in several ways, so measure them together. Track calls by source, form submissions and online bookings as conversions in analytics, and combine them in one report. Otherwise a channel that drives mostly online bookings can look weak if you only count calls."
+    },
+    {
+      "type": "p",
+      "text": "Make sure forms don’t ask for unnecessary health details, and that any tracking on pages where patients share health information is reviewed for HIPAA implications."
+    },
+    {
+      "type": "h3",
+      "id": "what-should-a-monthly-call-report-include",
+      "text": "What should a monthly call report include?"
+    },
+    {
+      "type": "answer",
+      "text": "A useful monthly report shows calls by source, answer rate, new-patient calls, booking rate, cost per booked new patient by channel, and notable trends by office or time of day. It should end with two or three specific actions for the next month."
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Calls and bookings by channel",
+        "Missed-call rate and after-hours volume",
+        "Booking rate by office or team member",
+        "Cost per booked new patient by campaign",
+        "Actions for next month"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-does-a-missed-new-patient-call-really-cost-a-practice",
+      "text": "What does a missed new-patient call really cost a practice?"
+    },
+    {
+      "type": "answer",
+      "text": "Every unanswered new-patient call is a patient who may book with the next practice on the list. Multiply your missed new-patient calls by your booking rate and average new-patient value to estimate the revenue at stake — then decide whether faster call-backs, an answering service or extra phone coverage pays for itself."
+    },
+    {
+      "type": "p",
+      "text": "A simple monthly estimate:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Count missed calls from new patients (call tracking shows these).",
+        "Multiply by your normal booking rate for answered new-patient calls.",
+        "Multiply by the average first-year value of a new patient at your practice."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The result is rarely small. Many practices find that fixing phone coverage during lunch hours, early mornings or busy check-in periods recovers more patients than increasing their ad budget. Call tracking turns that hunch into a number your team can act on."
+    },
+    {
+      "type": "h2",
+      "id": "what-to-expect",
+      "text": "What to Expect"
+    },
+    {
+      "type": "h3",
+      "id": "how-long-does-it-take-to-set-up-dental-call-tracking",
+      "text": "How long does it take to set up dental call tracking?"
+    },
+    {
+      "type": "answer",
+      "text": "Basic tracking can be live within days. Allow a few weeks to configure dynamic numbers, recording notices, Google Ads conversions and outcome tagging, then a month of data before making budget decisions."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Phase",
+        "Timeframe",
+        "Focus"
+      ],
+      "rows": [
+        [
+          "Setup",
+          "Week 1",
+          "Vendor, BAA, numbers, recording notice"
+        ],
+        [
+          "Integration",
+          "Weeks 2–3",
+          "Website numbers, Google Ads conversions, tagging"
+        ],
+        [
+          "Baseline",
+          "Weeks 4–8",
+          "Answer rate, booking rate, calls by source"
+        ],
+        [
+          "Optimize",
+          "Ongoing",
+          "Coaching, budget shifts, missed-call follow-up"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "the-bottom-line",
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "p",
+      "text": "Call tracking shows which marketing makes the phone ring and whether those calls become patients. Set it up with a Business Associate Agreement and recording notices, protect your local SEO, measure answered and booked calls, and use real call data to coach your team and steer your budget."
+    },
+    {
+      "type": "callout",
+      "title": "Turn more calls into booked patients",
+      "body": [
+        "**Know exactly what your marketing produces.** Alpha Dental Media sets up compliant call tracking and attribution for dental practices across Texas, Florida and California and reports cost per booked new patient by channel."
+      ],
+      "cta": {
+        "label": "Book a Free Strategy Consultation →",
+        "href": "/contact/"
+      },
+      "note": "30 minutes · A clear plan you keep"
+    },
+    {
+      "type": "h2",
+      "id": "sources",
+      "text": "Sources"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "U.S. HHS — [Business associates](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/business-associates/index.html)",
+        "Reporters Committee for Freedom of the Press — [Reporter’s Recording Guide (state consent laws)](https://www.rcfp.org/reporters-recording-guide/)",
+        "Hunton Andrews Kurth — [Federal judge rules that online tracking technologies guidance exceeded HHS authority](https://www.hunton.com/privacy-and-cybersecurity-law-blog/federal-judge-rules-that-online-tracking-technologies-guidance-exceeded-hhs-authority)",
+        "California Dental Association — [Dentists urged to analyze website tracking functions](https://www.cda.org/newsroom/privacy-hipaa/dentists-urged-to-avoid-legal-risk-by-analyzing-website-tracking-functions/)",
+        "Google Business Profile Help — [Guidelines for representing your business](https://support.google.com/business/answer/3038177?hl=en)"
+      ]
+    },
+    {
+      "type": "disclaimer",
+      "text": "Disclaimer: This article is for general educational purposes and is not legal or HIPAA compliance advice. Recording, privacy and telemarketing laws vary by state and change over time. Consult a qualified healthcare attorney before recording calls, sharing call data with vendors or installing website tracking."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is call tracking for dental practices?",
+      "a": "Call tracking uses unique phone numbers for each marketing source — Google Ads, organic search, Google Business Profile, social, print — and forwards them to your office. Each call is logged by source, so you can see which marketing produces calls, how many are answered and which become appointments."
+    },
+    {
+      "q": "What is dynamic number insertion?",
+      "a": "Dynamic number insertion shows a different tracking number on your website depending on how the visitor arrived — for example, one number for paid search visitors and another for organic visitors. It lets you attribute website calls to their source without changing your main number everywhere."
+    },
+    {
+      "q": "Will call tracking numbers hurt my local SEO?",
+      "a": "Not when set up carefully. Keep your main number consistent across directories, use dynamic number insertion on your website so the main number remains in your page code, and follow Google Business Profile guidelines for any tracking number you add there."
+    },
+    {
+      "q": "Which call metrics matter most for dentists?",
+      "a": "Focus on calls answered, calls that were new patients, calls that booked an appointment, and cost per booked new patient by channel. Total call volume alone hides missed calls, existing-patient calls and spam."
+    },
+    {
+      "q": "How do I know if front-desk calls are converting?",
+      "a": "Review a sample of calls each week against outcomes: was the call answered, did the caller book, and if not, why? Common causes of lost bookings include long holds, no next available appointment offered, and insurance questions without a clear answer."
+    },
+    {
+      "q": "How should call data connect to Google Ads?",
+      "a": "Import booked-appointment outcomes or qualified calls as conversions so Google Ads optimizes toward patients rather than any call. Counting every short or spam call as a conversion trains campaigns toward the wrong results."
+    },
+    {
+      "q": "Does a call tracking vendor need a Business Associate Agreement?",
+      "a": "Generally, yes, if the vendor creates, receives, stores or transmits protected health information on your behalf — for example, by recording calls in which patients discuss their care. Choose a vendor that will sign a Business Associate Agreement and supports appropriate security controls."
+    },
+    {
+      "q": "Is it legal for a dental office to record phone calls?",
+      "a": "It depends on the state and the parties on the call. California and Florida generally require the consent of all parties, while Texas generally requires the consent of one party. A clear recorded notice at the start of every call is the simplest way to stay compliant everywhere."
+    },
+    {
+      "q": "Does website tracking raise HIPAA concerns for dentists?",
+      "a": "It can. In 2024 a federal court in Texas vacated part of HHS’s guidance on online tracking technologies covering unauthenticated public pages, but tracking on pages where patients share health information — such as appointment requests or patient portals — still raises HIPAA concerns. California dentists have also received demand letters over website pixels."
+    },
+    {
+      "q": "How should multi-location practices track calls in big metros?",
+      "a": "Give each office its own tracking numbers by channel so you can compare locations. In large metros like Houston, Dallas–Fort Worth, Los Angeles and Miami, call data often shows that some neighborhoods or campaigns produce far better patients than others, guiding where to spend."
+    },
+    {
+      "q": "How should a dental practice choose a call tracking provider?",
+      "a": "Choose a provider that signs a Business Associate Agreement, supports dynamic number insertion, integrates with Google Ads and analytics, offers recording notices and secure storage, and lets you tag call outcomes. Ease of use for your front desk matters as much as features."
+    },
+    {
+      "q": "Should dental practices record every call?",
+      "a": "Recording helps with training and quality, but it creates privacy obligations. If you record, play a clear notice, limit access to recordings, set retention periods and make sure your vendor signs a Business Associate Agreement. Some practices record only marketing lines rather than every call."
+    },
+    {
+      "q": "How can call data improve front-desk performance?",
+      "a": "Use real calls for coaching. Review missed calls, calls that didn’t book and calls with long holds, then train on the patterns: answering quickly, offering a specific appointment time, handling insurance questions and capturing contact details for follow-up."
+    },
+    {
+      "q": "What call tracking mistakes should practices avoid?",
+      "a": "Using tracking numbers inconsistently across directories, counting every call as a lead, recording without notice, using a vendor without a Business Associate Agreement and never reviewing outcomes. Each one either hurts local SEO, misleads reporting or creates legal risk."
+    },
+    {
+      "q": "How should after-hours calls be handled?",
+      "a": "After-hours calls often include urgent new-patient needs. Use an answering service or clear voicemail with next-morning callbacks, offer online booking, and route genuine emergencies according to your practice’s protocols. Track after-hours volume to decide whether extended hours are worth testing."
+    },
+    {
+      "q": "How do call tracking and form tracking work together?",
+      "a": "Patients contact practices in several ways, so measure them together. Track calls by source, form submissions and online bookings as conversions in analytics, and combine them in one report. Otherwise a channel that drives mostly online bookings can look weak if you only count calls."
+    },
+    {
+      "q": "What should a monthly call report include?",
+      "a": "A useful monthly report shows calls by source, answer rate, new-patient calls, booking rate, cost per booked new patient by channel, and notable trends by office or time of day. It should end with two or three specific actions for the next month."
+    },
+    {
+      "q": "What does a missed new-patient call really cost a practice?",
+      "a": "Every unanswered new-patient call is a patient who may book with the next practice on the list. Multiply your missed new-patient calls by your booking rate and average new-patient value to estimate the revenue at stake — then decide whether faster call-backs, an answering service or extra phone coverage pays for itself."
+    },
+    {
+      "q": "How long does it take to set up dental call tracking?",
+      "a": "Basic tracking can be live within days. Allow a few weeks to configure dynamic numbers, recording notices, Google Ads conversions and outcome tagging, then a month of data before making budget decisions."
+    }
+  ],
+  "figures": [
+    {
+      "id": "call-flow",
+      "after": "how-call-tracking-works",
+      "src": "/images/blog/call-tracking-for-dentists/call-flow.svg",
+      "alt": "Flow infographic of dental call tracking from marketing source to tracking number, office line, tagged outcome and report.",
+      "caption": "Call tracking gives each marketing source its own number, forwards calls to the office and tags outcomes, so practices can see cost per booked new patient by channel.",
+      "width": 1200,
+      "height": 456
+    },
+    {
+      "id": "recording-consent",
+      "after": "hipaa-and-recording-laws",
+      "src": "/images/blog/call-tracking-for-dentists/recording-consent.svg",
+      "alt": "Infographic of call-recording consent rules: all-party consent in California and Florida, one-party consent in Texas.",
+      "caption": "California and Florida generally require every party’s consent to record a call, while Texas generally requires one. A recorded notice on every call keeps multi-state practices covered.",
+      "width": 1200,
+      "height": 415
+    }
+  ],
+  "image": "/images/blog/call-tracking-for-dentists/featured.png",
+  "imageSvg": "/images/blog/call-tracking-for-dentists/featured.svg",
+  "imageAlt": "Call Tracking for Dentists: Setup, Recording Laws and What to Measure — Alpha Dental Media guide"
+}

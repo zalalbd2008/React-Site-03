@@ -1,0 +1,653 @@
+{
+  "slug": "dental-homepage-above-the-fold",
+  "category": "Websites",
+  "title": "11 Things Every Dental Homepage Needs Above the Fold to Turn Visitors Into Booked Patients",
+  "metaTitle": "11 Things Every Dental Homepage Needs Above the Fold",
+  "metaDescription": "The 11 things a dental homepage needs in the first screen to turn mobile visitors into booked patients, plus speed and accessibility basics.",
+  "author": "[Author name], [Title], Alpha Dental Media",
+  "reviewer": "[Reviewer name], [credentials]",
+  "updated": "2026-11-10",
+  "time": "10 min",
+  "takeaways": [
+    "The first screen must answer **who you are, where you are, and how to book** — in seconds.",
+    "**Click-to-call and online booking** should be visible on mobile without scrolling.",
+    "**Real photos, reviews and credentials** build trust faster than stock imagery.",
+    "**Speed and accessibility** are conversion factors, not just technical checkboxes."
+  ],
+  "content": [
+    {
+      "type": "p",
+      "text": "Most patients decide within seconds whether to call, keep scrolling or go back to search results. On a phone, the first screen of your homepage — what appears “above the fold” — carries most of that decision. Yet many dental homepages spend it on a rotating slider, a stock photo and a vague tagline."
+    },
+    {
+      "type": "p",
+      "text": "This checklist covers the 11 elements that belong in the first screen, how to fit them on mobile, and the speed and accessibility basics practices in Texas, Florida and California should not skip."
+    },
+    {
+      "type": "h2",
+      "id": "the-11-essentials",
+      "text": "The 11 Essentials"
+    },
+    {
+      "type": "h3",
+      "id": "what-should-a-dental-homepage-show-above-the-fold",
+      "text": "What should a dental homepage show above the fold?"
+    },
+    {
+      "type": "answer",
+      "text": "A clear headline naming your service and location, a one-tap call button, an online booking button, your rating and review count, insurance or financing reassurance, and a real photo of your team or office. Together, these answer the patient’s three questions: can they help me, can I trust them, and how do I book?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "#",
+        "Element",
+        "Why it matters"
+      ],
+      "rows": [
+        [
+          "1",
+          "Headline with service and location",
+          "Confirms the patient is in the right place"
+        ],
+        [
+          "2",
+          "Click-to-call phone number",
+          "Most urgent dental intent ends in a call"
+        ],
+        [
+          "3",
+          "Online booking button",
+          "Lets patients book after hours"
+        ],
+        [
+          "4",
+          "Google rating and review count",
+          "Social proof before they scroll"
+        ],
+        [
+          "5",
+          "Insurance and financing note",
+          "Removes the most common objection"
+        ],
+        [
+          "6",
+          "Real team or office photo",
+          "Builds familiarity and trust"
+        ],
+        [
+          "7",
+          "New-patient availability",
+          "Signals they can be seen soon"
+        ],
+        [
+          "8",
+          "Emergency availability (if offered)",
+          "Captures urgent searches"
+        ],
+        [
+          "9",
+          "Neighborhood or address",
+          "Confirms distance and convenience"
+        ],
+        [
+          "10",
+          "Languages spoken",
+          "Essential in bilingual markets"
+        ],
+        [
+          "11",
+          "Simple navigation to treatments",
+          "Lets research-stage patients go deeper"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-makes-a-good-dental-homepage-headline",
+      "text": "What makes a good dental homepage headline?"
+    },
+    {
+      "type": "answer",
+      "text": "A specific promise that names the service and place, such as “Family and Cosmetic Dentistry in Katy, TX — New Patients Welcome.” Avoid vague slogans like “Creating Beautiful Smiles,” which don’t tell patients or search engines what you offer or where."
+    },
+    {
+      "type": "h3",
+      "id": "should-the-phone-number-be-clickable-on-a-dental-website",
+      "text": "Should the phone number be clickable on a dental website?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. On mobile, the phone number should be a tap-to-call button that stays visible as the patient scrolls. Many dental patients, especially with urgent needs, would rather call than fill out a form."
+    },
+    {
+      "type": "h3",
+      "id": "do-online-booking-buttons-increase-dental-appointments",
+      "text": "Do online booking buttons increase dental appointments?"
+    },
+    {
+      "type": "answer",
+      "text": "Online booking gives patients a way to schedule outside office hours, when many people research providers. Place it beside the call button so patients can choose, and make sure the booking flow works smoothly on phones."
+    },
+    {
+      "type": "h2",
+      "id": "trust-signals-that-convert",
+      "text": "Trust Signals That Convert"
+    },
+    {
+      "type": "h3",
+      "id": "why-should-dentists-use-real-photos-instead-of-stock-images",
+      "text": "Why should dentists use real photos instead of stock images?"
+    },
+    {
+      "type": "answer",
+      "text": "Patients want to see who will treat them. Real photos of your dentists, team and office build familiarity and trust, while generic stock images can make a practice feel interchangeable. Use professional, well-lit photos with descriptive alt text."
+    },
+    {
+      "type": "h3",
+      "id": "where-should-reviews-appear-on-a-dental-homepage",
+      "text": "Where should reviews appear on a dental homepage?"
+    },
+    {
+      "type": "answer",
+      "text": "Show your Google rating and review count in the first screen, then feature a few recent, genuine review excerpts lower on the page. Never edit reviews or present invented testimonials; display real reviews with permission and attribution."
+    },
+    {
+      "type": "h3",
+      "id": "should-a-dental-homepage-mention-insurance-and-financing",
+      "text": "Should a dental homepage mention insurance and financing?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. Cost and coverage are among the biggest reasons patients hesitate. A short line such as “Most PPO plans accepted · Flexible financing available” — only if true — removes an objection before it stops the call."
+    },
+    {
+      "type": "callout",
+      "title": "Is your homepage losing patients in the first five seconds?",
+      "body": [
+        "**Get a free website conversion audit.** We’ll review your homepage on mobile, measure speed and accessibility issues, and show the changes most likely to increase calls and bookings."
+      ],
+      "cta": {
+        "label": "Get My Free Website Audit →",
+        "href": "/free-audit/"
+      },
+      "note": "No contracts · Reviewed by a dental web strategist"
+    },
+    {
+      "type": "h2",
+      "id": "mobile-speed-and-accessibility",
+      "text": "Mobile, Speed and Accessibility"
+    },
+    {
+      "type": "h3",
+      "id": "how-should-a-dental-homepage-look-on-mobile",
+      "text": "How should a dental homepage look on mobile?"
+    },
+    {
+      "type": "answer",
+      "text": "On a phone, prioritize the headline, call button, booking button and rating in the first screen, and keep a sticky call-and-book bar at the bottom. Remove sliders, autoplay video and pop-ups that push essential actions below the fold."
+    },
+    {
+      "type": "p",
+      "text": "Mobile checklist:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Headline readable without zooming",
+        "Call and booking buttons at least 44px tall",
+        "No pop-up covering the first screen",
+        "Sticky call/book bar while scrolling",
+        "Hero image compressed and sized for phones"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "does-website-speed-affect-dental-patient-conversions",
+      "text": "Does website speed affect dental patient conversions?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. Slow pages frustrate patients and can cost them before they ever see your call button. Google’s Core Web Vitals measure loading, responsiveness and visual stability; keeping hero images small and avoiding heavy sliders helps all three."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Core Web Vital",
+        "What it measures",
+        "Common dental-site cause of problems"
+      ],
+      "rows": [
+        [
+          "Largest Contentful Paint",
+          "How fast the main content loads",
+          "Oversized hero images and sliders"
+        ],
+        [
+          "Interaction to Next Paint",
+          "How quickly the page responds",
+          "Heavy chat widgets and scripts"
+        ],
+        [
+          "Cumulative Layout Shift",
+          "Visual stability",
+          "Banners and images loading late"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "do-dental-websites-need-to-be-accessible",
+      "text": "Do dental websites need to be accessible?"
+    },
+    {
+      "type": "answer",
+      "text": "Accessibility helps every patient, including people with visual, motor or cognitive disabilities, and website accessibility lawsuits have been common in states like California and Florida. The U.S. Department of Justice has published guidance on web accessibility under the ADA. Follow WCAG guidelines for contrast, labels, alt text and keyboard navigation."
+    },
+    {
+      "type": "h2",
+      "id": "homepages-in-texas-florida-and-california",
+      "text": "Homepages in Texas, Florida and California"
+    },
+    {
+      "type": "h3",
+      "id": "what-should-dental-homepages-emphasize-in-major-metros",
+      "text": "What should dental homepages emphasize in major metros?"
+    },
+    {
+      "type": "answer",
+      "text": "Location clarity and language access. In sprawling Texas metros, name the neighborhood and nearby areas you serve. In bilingual markets like Miami, San Antonio and Los Angeles, show the languages your team speaks and offer a Spanish version of key content."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Market",
+        "Above-the-fold priority"
+      ],
+      "rows": [
+        [
+          "Houston, Dallas–Fort Worth",
+          "Neighborhood name and nearby communities served"
+        ],
+        [
+          "San Antonio, Miami, Los Angeles",
+          "“Se habla español” and a language switcher, if accurate"
+        ],
+        [
+          "Orlando, Tampa",
+          "Emergency and same-day availability, if offered"
+        ],
+        [
+          "San Francisco Bay Area, San Diego",
+          "Credentials, technology and transparent financing"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "are-there-advertising-rules-for-offers-on-a-dental-homepage",
+      "text": "Are there advertising rules for offers on a dental homepage?"
+    },
+    {
+      "type": "answer",
+      "text": "Yes. State dental boards regulate advertising claims. Florida requires a specific disclaimer when advertising free or discounted services or exams, so a “Free New-Patient Exam” banner needs that statement. Review homepage offers against your state’s rules."
+    },
+    {
+      "type": "h2",
+      "id": "below-the-fold-what-comes-next",
+      "text": "Below the Fold: What Comes Next"
+    },
+    {
+      "type": "h3",
+      "id": "what-should-a-dental-homepage-include-below-the-first-screen",
+      "text": "What should a dental homepage include below the first screen?"
+    },
+    {
+      "type": "answer",
+      "text": "After the first screen, help research-stage patients go deeper: featured treatments, meet-the-team, real reviews, insurance and financing details, office locations with maps, and answers to common questions. Repeat the call and booking options after each major section."
+    },
+    {
+      "type": "p",
+      "text": "A proven order for the rest of the page:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Featured treatments with short descriptions and links",
+        "Meet the dentists, with credentials and photos",
+        "Real Google review excerpts with attribution",
+        "Insurance accepted and financing options",
+        "What to expect at your first visit",
+        "Office locations, hours, parking and directions",
+        "Frequently asked questions",
+        "A final call-to-action band"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "should-a-dental-homepage-use-a-slider",
+      "text": "Should a dental homepage use a slider?"
+    },
+    {
+      "type": "answer",
+      "text": "Usually not. Rotating sliders slow pages, push key information out of view and are rarely seen past the first slide. A single strong hero with a clear headline, real photo and action buttons is faster and more effective."
+    },
+    {
+      "type": "h3",
+      "id": "do-chat-widgets-help-dental-websites-convert",
+      "text": "Do chat widgets help dental websites convert?"
+    },
+    {
+      "type": "answer",
+      "text": "They can help if someone actually answers quickly, but slow or heavy widgets can hurt page speed and cover important buttons on mobile. Test whether chat produces booked appointments and load it after the main content."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Feature",
+        "Helps when",
+        "Hurts when"
+      ],
+      "rows": [
+        [
+          "Live chat",
+          "Staff respond in minutes",
+          "Messages go unanswered"
+        ],
+        [
+          "Pop-up offer",
+          "Shown after engagement, easy to close",
+          "Covers the first screen on mobile"
+        ],
+        [
+          "Autoplay video",
+          "Rarely",
+          "Slows loading and distracts"
+        ],
+        [
+          "Online booking",
+          "Real availability shown",
+          "Booking flow breaks on phones"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "what-are-the-most-common-dental-homepage-mistakes",
+      "text": "What are the most common dental homepage mistakes?"
+    },
+    {
+      "type": "answer",
+      "text": "Vague headlines, hidden phone numbers, stock photos, slow sliders, pop-ups covering the first screen, outdated hours and missing insurance information. Each adds friction at the moment a patient is deciding whether to call."
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Headline names your service and location",
+        "Call and booking visible without scrolling",
+        "Real photos with descriptive alt text",
+        "Hours and address current and consistent",
+        "Page loads quickly on a phone"
+      ]
+    },
+    {
+      "type": "h3",
+      "id": "how-do-i-test-whether-my-dental-homepage-works",
+      "text": "How do I test whether my dental homepage works?"
+    },
+    {
+      "type": "answer",
+      "text": "Watch real data: calls and bookings from the website, mobile conversion rate and where visitors drop off. Then ask a few people unfamiliar with your practice to find your phone number, insurance information and booking option on a phone, and note where they hesitate."
+    },
+    {
+      "type": "h3",
+      "id": "how-should-a-multi-location-practice-design-its-homepage",
+      "text": "How should a multi-location practice design its homepage?"
+    },
+    {
+      "type": "answer",
+      "text": "Help patients reach the right office quickly. Show a simple location selector or office cards near the top, each with the neighborhood, phone number and booking link, and give every office its own detailed location page. Avoid forcing patients to read about every office before they can call one."
+    },
+    {
+      "type": "p",
+      "text": "In sprawling metros such as Houston or Dallas–Fort Worth, listing the communities each office serves helps patients recognize which location is closest."
+    },
+    {
+      "type": "h3",
+      "id": "should-a-dental-homepage-show-prices-or-special-offers",
+      "text": "Should a dental homepage show prices or special offers?"
+    },
+    {
+      "type": "answer",
+      "text": "A clear new-patient offer or financing message can help, but it must be accurate and compliant with your state’s advertising rules. Detailed pricing usually belongs on treatment pages, where you can explain what affects cost. Keep the homepage focused on trust and the next step."
+    },
+    {
+      "type": "p",
+      "text": "If you advertise a free or discounted exam in Florida, include the disclaimer the state requires wherever the offer appears."
+    },
+    {
+      "type": "p",
+      "text": "Wherever offers appear, keep the terms visible and easy to read on mobile, not hidden behind a tap."
+    },
+    {
+      "type": "h3",
+      "id": "what-should-the-homepage-say-about-new-patients",
+      "text": "What should the homepage say about new patients?"
+    },
+    {
+      "type": "answer",
+      "text": "Make it obvious that you’re accepting new patients and what happens next. A short line such as “Accepting new patients — appointments available this week,” only if true, plus a link to a new-patient page explaining the first visit, forms and insurance, removes uncertainty for people choosing a dentist for the first time."
+    },
+    {
+      "type": "p",
+      "text": "A good new-patient page linked from the homepage covers:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "What happens at the first visit and how long it takes",
+        "What to bring: ID, insurance card, medication list",
+        "Online forms patients can complete before arriving",
+        "Accepted insurance plans and financing options",
+        "Parking, accessibility and directions",
+        "A booking button and phone number"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For anxious patients, mentioning comfort options — sedation, headphones, a gentle approach — can be the detail that turns a visit into a booking."
+    },
+    {
+      "type": "h2",
+      "id": "what-to-expect",
+      "text": "What to Expect"
+    },
+    {
+      "type": "h3",
+      "id": "how-quickly-can-homepage-changes-improve-bookings",
+      "text": "How quickly can homepage changes improve bookings?"
+    },
+    {
+      "type": "answer",
+      "text": "Above-the-fold improvements take effect as soon as they launch, so you can compare calls and bookings within a few weeks. Measure before and after using call tracking and booking data rather than relying on traffic alone."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Phase",
+        "Timeframe",
+        "Focus"
+      ],
+      "rows": [
+        [
+          "Baseline",
+          "Week 1",
+          "Record calls, bookings and mobile conversion rate"
+        ],
+        [
+          "Redesign first screen",
+          "Weeks 2–3",
+          "Headline, buttons, trust signals, speed fixes"
+        ],
+        [
+          "Measure",
+          "Weeks 4–8",
+          "Compare conversions; fix friction points"
+        ],
+        [
+          "Refine",
+          "Ongoing",
+          "Test headlines, offers and booking flow"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "id": "the-bottom-line",
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "p",
+      "text": "Your homepage’s first screen has one job: help a patient decide to contact you. Name your service and neighborhood, make calling and booking effortless on a phone, show real people and real reviews, and remove anything that slows the page or hides the next step. Then measure calls and bookings and keep refining."
+    },
+    {
+      "type": "callout",
+      "title": "Turn more website visitors into patients",
+      "body": [
+        "**A homepage built to book appointments.** Alpha Dental Media designs fast, accessible, conversion-focused dental websites for practices across Texas, Florida and California."
+      ],
+      "cta": {
+        "label": "Book a Free Strategy Consultation →",
+        "href": "/contact/"
+      },
+      "note": "30 minutes · A clear plan you keep"
+    },
+    {
+      "type": "h2",
+      "id": "sources",
+      "text": "Sources"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Google Search Central — [Understanding Core Web Vitals](https://developers.google.com/search/docs/appearance/core-web-vitals)",
+        "U.S. Department of Justice — [Guidance on Web Accessibility and the ADA](https://www.ada.gov/resources/web-guidance/)",
+        "W3C — [Web Content Accessibility Guidelines (WCAG) overview](https://www.w3.org/WAI/standards-guidelines/wcag/)",
+        "Florida Statutes — [§456.062, Advertisement of free or discounted services](https://www.flsenate.gov/Laws/Statutes/2025/456.062)"
+      ]
+    },
+    {
+      "type": "disclaimer",
+      "text": "Disclaimer: This article is for general educational purposes and is not legal advice. Website performance and conversion results vary by practice and market, and no outcome is guaranteed. Consult a qualified attorney about accessibility and advertising compliance, and a qualified web professional before significant site changes."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should a dental homepage show above the fold?",
+      "a": "A clear headline naming your service and location, a one-tap call button, an online booking button, your rating and review count, insurance or financing reassurance, and a real photo of your team or office. Together, these answer the patient’s three questions: can they help me, can I trust them, and how do I book?"
+    },
+    {
+      "q": "What makes a good dental homepage headline?",
+      "a": "A specific promise that names the service and place, such as “Family and Cosmetic Dentistry in Katy, TX — New Patients Welcome.” Avoid vague slogans like “Creating Beautiful Smiles,” which don’t tell patients or search engines what you offer or where."
+    },
+    {
+      "q": "Should the phone number be clickable on a dental website?",
+      "a": "Yes. On mobile, the phone number should be a tap-to-call button that stays visible as the patient scrolls. Many dental patients, especially with urgent needs, would rather call than fill out a form."
+    },
+    {
+      "q": "Do online booking buttons increase dental appointments?",
+      "a": "Online booking gives patients a way to schedule outside office hours, when many people research providers. Place it beside the call button so patients can choose, and make sure the booking flow works smoothly on phones."
+    },
+    {
+      "q": "Why should dentists use real photos instead of stock images?",
+      "a": "Patients want to see who will treat them. Real photos of your dentists, team and office build familiarity and trust, while generic stock images can make a practice feel interchangeable. Use professional, well-lit photos with descriptive alt text."
+    },
+    {
+      "q": "Where should reviews appear on a dental homepage?",
+      "a": "Show your Google rating and review count in the first screen, then feature a few recent, genuine review excerpts lower on the page. Never edit reviews or present invented testimonials; display real reviews with permission and attribution."
+    },
+    {
+      "q": "Should a dental homepage mention insurance and financing?",
+      "a": "Yes. Cost and coverage are among the biggest reasons patients hesitate. A short line such as “Most PPO plans accepted · Flexible financing available” — only if true — removes an objection before it stops the call."
+    },
+    {
+      "q": "How should a dental homepage look on mobile?",
+      "a": "On a phone, prioritize the headline, call button, booking button and rating in the first screen, and keep a sticky call-and-book bar at the bottom. Remove sliders, autoplay video and pop-ups that push essential actions below the fold."
+    },
+    {
+      "q": "Does website speed affect dental patient conversions?",
+      "a": "Yes. Slow pages frustrate patients and can cost them before they ever see your call button. Google’s Core Web Vitals measure loading, responsiveness and visual stability; keeping hero images small and avoiding heavy sliders helps all three."
+    },
+    {
+      "q": "Do dental websites need to be accessible?",
+      "a": "Accessibility helps every patient, including people with visual, motor or cognitive disabilities, and website accessibility lawsuits have been common in states like California and Florida. The U.S. Department of Justice has published guidance on web accessibility under the ADA. Follow WCAG guidelines for contrast, labels, alt text and keyboard navigation."
+    },
+    {
+      "q": "What should dental homepages emphasize in major metros?",
+      "a": "Location clarity and language access. In sprawling Texas metros, name the neighborhood and nearby areas you serve. In bilingual markets like Miami, San Antonio and Los Angeles, show the languages your team speaks and offer a Spanish version of key content."
+    },
+    {
+      "q": "Are there advertising rules for offers on a dental homepage?",
+      "a": "Yes. State dental boards regulate advertising claims. Florida requires a specific disclaimer when advertising free or discounted services or exams, so a “Free New-Patient Exam” banner needs that statement. Review homepage offers against your state’s rules."
+    },
+    {
+      "q": "What should a dental homepage include below the first screen?",
+      "a": "After the first screen, help research-stage patients go deeper: featured treatments, meet-the-team, real reviews, insurance and financing details, office locations with maps, and answers to common questions. Repeat the call and booking options after each major section."
+    },
+    {
+      "q": "Should a dental homepage use a slider?",
+      "a": "Usually not. Rotating sliders slow pages, push key information out of view and are rarely seen past the first slide. A single strong hero with a clear headline, real photo and action buttons is faster and more effective."
+    },
+    {
+      "q": "Do chat widgets help dental websites convert?",
+      "a": "They can help if someone actually answers quickly, but slow or heavy widgets can hurt page speed and cover important buttons on mobile. Test whether chat produces booked appointments and load it after the main content."
+    },
+    {
+      "q": "What are the most common dental homepage mistakes?",
+      "a": "Vague headlines, hidden phone numbers, stock photos, slow sliders, pop-ups covering the first screen, outdated hours and missing insurance information. Each adds friction at the moment a patient is deciding whether to call."
+    },
+    {
+      "q": "How do I test whether my dental homepage works?",
+      "a": "Watch real data: calls and bookings from the website, mobile conversion rate and where visitors drop off. Then ask a few people unfamiliar with your practice to find your phone number, insurance information and booking option on a phone, and note where they hesitate."
+    },
+    {
+      "q": "How should a multi-location practice design its homepage?",
+      "a": "Help patients reach the right office quickly. Show a simple location selector or office cards near the top, each with the neighborhood, phone number and booking link, and give every office its own detailed location page. Avoid forcing patients to read about every office before they can call one."
+    },
+    {
+      "q": "Should a dental homepage show prices or special offers?",
+      "a": "A clear new-patient offer or financing message can help, but it must be accurate and compliant with your state’s advertising rules. Detailed pricing usually belongs on treatment pages, where you can explain what affects cost. Keep the homepage focused on trust and the next step."
+    },
+    {
+      "q": "What should the homepage say about new patients?",
+      "a": "Make it obvious that you’re accepting new patients and what happens next. A short line such as “Accepting new patients — appointments available this week,” only if true, plus a link to a new-patient page explaining the first visit, forms and insurance, removes uncertainty for people choosing a dentist for the first time."
+    },
+    {
+      "q": "How quickly can homepage changes improve bookings?",
+      "a": "Above-the-fold improvements take effect as soon as they launch, so you can compare calls and bookings within a few weeks. Measure before and after using call tracking and booking data rather than relying on traffic alone."
+    }
+  ],
+  "figures": [
+    {
+      "id": "eleven-essentials",
+      "after": "the-11-essentials",
+      "src": "/images/blog/dental-homepage-above-the-fold/eleven-essentials.svg",
+      "alt": "Checklist infographic of 11 elements a dental homepage needs above the fold, from a service and location headline to languages spoken.",
+      "caption": "The first screen of a dental homepage should answer three questions in seconds — can they help me, can I trust them, and how do I book — using these 11 elements.",
+      "width": 1200,
+      "height": 674
+    },
+    {
+      "id": "homepage-do-dont",
+      "after": "mobile-speed-and-accessibility",
+      "src": "/images/blog/dental-homepage-above-the-fold/homepage-do-dont.svg",
+      "alt": "Comparison infographic of mobile homepage choices that help or hurt dental appointment bookings.",
+      "caption": "On phones, speed, clear actions and accessibility decide whether a patient calls. Sliders, pop-ups and heavy images push the call button out of view.",
+      "width": 1200,
+      "height": 568
+    }
+  ],
+  "image": "/images/blog/dental-homepage-above-the-fold/featured.png",
+  "imageSvg": "/images/blog/dental-homepage-above-the-fold/featured.svg",
+  "imageAlt": "11 Things Every Dental Homepage Needs Above the Fold to Turn Visitors Into Booked Patients — Alpha Dental Media guide"
+}
