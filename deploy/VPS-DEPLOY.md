@@ -112,3 +112,55 @@ systemctl restart alpha-lead && systemctl reload nginx
 | ফর্ম কাজ করছে না | `systemctl status alpha-lead`, `journalctl -u alpha-lead -n 50` |
 | ফর্মে "Forbidden" | `/etc/alphadentalmedia.env`-এ `ALLOWED_ORIGINS` আপনার ডোমেইন সহ আছে কিনা |
 | certbot ব্যর্থ | DNS এখনো ছড়ায়নি — কিছুক্ষণ পরে আবার চালান |
+
+---
+
+## স্বয়ংক্রিয় ডিপ্লয় (GitHub Actions + SSH key)
+
+এটি সেটআপ করলে `main` ব্রাঞ্চে প্রতিটি পুশের পর GitHub নিজেই টেস্ট চালাবে, বিল্ড করবে এবং VPS-এ আপডেট দেবে
+(`.github/workflows/deploy.yml`)। আগে উপরের ধাপ ১–৫ ও ৭ একবার সম্পন্ন করুন।
+
+### ক. VPS-এ একটি আলাদা `deploy` ইউজার (root-এর বদলে — বেশি নিরাপদ)
+VPS-এ root হিসেবে:
+```bash
+adduser --disabled-password --gecos "" deploy
+chown -R deploy:deploy /var/www/alphadentalmedia
+echo 'deploy ALL=(root) NOPASSWD: /usr/bin/systemctl restart alpha-lead, /usr/bin/systemctl reload nginx' > /etc/sudoers.d/deploy
+chmod 440 /etc/sudoers.d/deploy && visudo -c
+```
+`deploy` ইউজার শুধু সাইটের ফোল্ডারে লিখতে পারবে এবং শুধু এই দুটি কমান্ড sudo দিয়ে চালাতে পারবে।
+
+### খ. শুধু ডিপ্লয়ের জন্য নতুন SSH key তৈরি
+**নিজের কম্পিউটারে** (Windows-এ PowerShell, Mac/Linux-এ Terminal):
+```bash
+ssh-keygen -t ed25519 -C "github-actions-deploy" -f adm_deploy -N ""
+```
+দুটি ফাইল হবে: `adm_deploy` (**private** — গোপন) ও `adm_deploy.pub` (**public**)।
+
+### গ. Public key VPS-এ বসান
+`adm_deploy.pub` ফাইলের লেখাটি কপি করুন, তারপর VPS-এ root হিসেবে:
+```bash
+mkdir -p /home/deploy/.ssh
+nano /home/deploy/.ssh/authorized_keys      # কপি করা public key এক লাইনে পেস্ট করে সেভ করুন
+chown -R deploy:deploy /home/deploy/.ssh
+chmod 700 /home/deploy/.ssh && chmod 600 /home/deploy/.ssh/authorized_keys
+```
+নিজের কম্পিউটার থেকে পরীক্ষা: `ssh -i adm_deploy deploy@YOUR_VPS_IP` — পাসওয়ার্ড ছাড়াই ঢুকতে পারলে ঠিক আছে।
+
+### ঘ. Private key GitHub-এ গোপনে রাখুন
+GitHub → রিপো **React-Site-03** → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**:
+
+| Name | Value |
+|---|---|
+| `VPS_HOST` | আপনার VPS IP |
+| `VPS_USER` | `deploy` |
+| `VPS_SSH_KEY` | `adm_deploy` (private) ফাইলের **পুরো** লেখা, `-----BEGIN` থেকে `-----END ... KEY-----` পর্যন্ত |
+| `VPS_PORT` | (ঐচ্ছিক) SSH পোর্ট ২২ না হলে |
+
+> ⚠️ Private key কখনো chat, ইমেইল বা কোডে দেবেন না — শুধু GitHub Secrets-এ। সেভ করার পর নিজের কম্পিউটার থেকে `adm_deploy` ফাইলটি মুছে দিতে পারেন।
+
+### ঙ. চালু করুন
+GitHub → **Actions** → **Deploy** → **Run workflow**। সবুজ টিক মানে সাইট আপডেট হয়েছে।
+এরপর থেকে `main`-এ প্রতিটি পুশে নিজে থেকেই ডিপ্লয় হবে; টেস্ট ফেল করলে ডিপ্লয় হবে না।
+
+**Key বাতিল করতে:** VPS-এ `/home/deploy/.ssh/authorized_keys` থেকে লাইনটি মুছে দিন এবং GitHub Secret ডিলিট করুন।

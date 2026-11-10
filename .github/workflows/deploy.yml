@@ -1,0 +1,82 @@
+# Test → build → deploy to the Hostinger VPS on every push to main.
+# Required repository secrets (Settings → Secrets and variables → Actions):
+#   VPS_HOST     — VPS IP address or hostname
+#   VPS_USER     — SSH user (recommended: "deploy", see deploy/VPS-DEPLOY.md)
+#   VPS_SSH_KEY  — PRIVATE key of a key pair whose public key is in ~/.ssh/authorized_keys on the VPS
+#   VPS_PORT     — optional, defaults to 22
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npm run lint
+      - run: npm test
+      - run: npm run build
+        env:
+          VITE_SITE_URL: https://alphadentalmedia.com
+
+  deploy:
+    needs: test
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check secrets are configured
+        env:
+          HOST: ${{ secrets.VPS_HOST }}
+          KEY: ${{ secrets.VPS_SSH_KEY }}
+          USER: ${{ secrets.VPS_USER }}
+        run: |
+          if [ -z "$HOST" ] || [ -z "$KEY" ] || [ -z "$USER" ]; then
+            echo "::error::Add VPS_HOST, VPS_USER and VPS_SSH_KEY in Settings → Secrets and variables → Actions"
+            exit 1
+          fi
+
+      - name: Set up SSH
+        env:
+          KEY: ${{ secrets.VPS_SSH_KEY }}
+          HOST: ${{ secrets.VPS_HOST }}
+          PORT: ${{ secrets.VPS_PORT || '22' }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$KEY" > ~/.ssh/id_deploy
+          chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -p "$PORT" -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Release on the VPS
+        env:
+          HOST: ${{ secrets.VPS_HOST }}
+          USER: ${{ secrets.VPS_USER }}
+          PORT: ${{ secrets.VPS_PORT || '22' }}
+        run: |
+          # Runs deploy/deploy.sh from this commit on the server (build in a new release folder, atomic switch)
+          ssh -i ~/.ssh/id_deploy -p "$PORT" -o IdentitiesOnly=yes "$USER@$HOST" 'bash -s' < deploy/deploy.sh
+
+      - name: Smoke test
+        run: |
+          sleep 3
+          curl -fsS -o /dev/null -w "home %{http_code}\n" https://alphadentalmedia.com/ || curl -fsS -o /dev/null -w "home (http) %{http_code}\n" http://alphadentalmedia.com/
+
+      - name: Remove key
+        if: always()
+        run: rm -f ~/.ssh/id_deploy
