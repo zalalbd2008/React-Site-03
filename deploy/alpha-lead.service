@@ -1,0 +1,28 @@
+# /etc/systemd/system/alpha-lead.service
+[Unit]
+Description=Alpha Dental Media lead form API
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/alphadentalmedia/current
+EnvironmentFile=/etc/alphadentalmedia.env
+Environment=NODE_ENV=production PORT=3001 HOST=127.0.0.1
+ExecStart=/usr/bin/node server/lead-server.mjs
+Restart=on-failure
+RestartSec=3
+
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+MemoryMax=256M
+
+[Install]
+WantedBy=multi-user.target

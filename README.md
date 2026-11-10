@@ -88,7 +88,11 @@ topics are reachable but `noindex` and left out of the sitemap; the thank-you pa
   webhook URL is a server-only env var — nothing secret is in the frontend bundle.
 * Forms ask users not to submit patient health information.
 
-## Deployment (Vercel — recommended)
+## Deployment
+
+**Hostinger / any Ubuntu VPS:** step-by-step guide in [`deploy/VPS-DEPLOY.md`](deploy/VPS-DEPLOY.md) (Nginx + systemd lead service + Let's Encrypt; configs in `deploy/`, standalone API in `server/lead-server.mjs`).
+
+### Vercel
 1. Import the repository in Vercel. Build command and output directory come from `vercel.json`.
 2. Set environment variables:
    * `VITE_SITE_URL` = `https://alphadentalmedia.com` (canonical URLs, sitemap)
